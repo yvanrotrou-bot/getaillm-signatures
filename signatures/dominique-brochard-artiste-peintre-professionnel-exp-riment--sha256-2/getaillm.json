@@ -4,7 +4,7 @@
   "semantic_hash": "sha256-20d584df-mdzq6m0r",
   "ai_score": 100,
   "created_at": "2025-08-06T08:47:55.142Z",
-  "updated_at": "2025-08-06T09:57:42.230Z",
+  "updated_at": "2025-08-06T10:25:19.140Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -13,8 +13,8 @@
     "views": 0,
     "exports": 1,
     "aiCitations": 0,
-    "publishCount": 1,
-    "lastPublished": "2025-08-06T09:57:42.229Z",
+    "publishCount": 2,
+    "lastPublished": "2025-08-06T10:25:19.139Z",
     "platformsCount": 1
   },
   "verification_url": "https://getaillm.com/verify/sha256-20d584df-mdzq6m0r"
