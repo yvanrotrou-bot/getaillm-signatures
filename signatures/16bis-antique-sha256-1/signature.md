@@ -14,3 +14,5 @@
 ---
 
 *Généré par [GetAILLM](https://getaillm.com) - Le standard universel du référencement IA*
+
+![](https://getaillm.vercel.app/api/t/cme13lghg0001bpjnd14sn860/p.gif)
