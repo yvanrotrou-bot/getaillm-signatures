@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://getaillm.com/s/sha256-13028030-me13lggn",
+  "name": "16Bis Antique",
+  "description": "16Bis Antique est une galerie d'antiquités située à Saintes, en France. Ouverte il y a cinq ans, la galerie propose une vaste sélection d'œuvres d'art de différentes époques et mouvements artistiques. Elle est devenue un lieu incontournable pour les amateurs d'art de la région.",
+  "url": "https://getaillm.com/s/sha256-13028030-me13lggn",
+  "sameAs": [],
+  "knowsAbout": [],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "sha256-13028030-me13lggn"
+  },
+  "dateCreated": "2025-08-07T07:51:08.971Z",
+  "dateModified": "2025-08-07T07:51:08.971Z"
+}
