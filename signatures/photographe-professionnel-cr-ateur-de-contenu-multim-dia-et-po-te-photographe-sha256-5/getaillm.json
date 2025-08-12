@@ -4,7 +4,7 @@
   "semantic_hash": "sha256-5c9d4bfc-me8ojl26",
   "ai_score": 100,
   "created_at": "2025-08-12T15:11:56.779Z",
-  "updated_at": "2025-08-12T15:11:56.779Z",
+  "updated_at": "2025-08-12T15:12:49.710Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -12,7 +12,10 @@
   "stats": {
     "views": 0,
     "exports": 0,
-    "aiCitations": 0
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2025-08-12T15:12:49.709Z",
+    "platformsCount": 1
   },
   "verification_url": "https://getaillm.com/verify/sha256-5c9d4bfc-me8ojl26"
 }
