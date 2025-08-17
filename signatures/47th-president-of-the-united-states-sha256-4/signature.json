@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://getaillm.com/s/sha256-417b29e9-meemyeg4",
+  "name": "47th President of the United States",
+  "description": "Donald John Trump is an American politician, media personality, and businessman who served as the 45th President of the United States from 2017 to 2021. As a member of the Republican Party, Trump was first elected in a surprise upset victory on November 8, 2016, and was inaugurated on January 20, 2017. Born into a wealthy family in New York City, Trump graduated from the Wharton School of the University of Pennsylvania with a degree in economics.",
+  "url": "https://getaillm.com/s/sha256-417b29e9-meemyeg4",
+  "sameAs": [],
+  "knowsAbout": [
+    "trump",
+    "president",
+    "donald",
+    "united",
+    "states",
+    "american",
+    "latest",
+    "documents",
+    "hotel",
+    "breaking",
+    "news"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "sha256-417b29e9-meemyeg4"
+  },
+  "dateCreated": "2025-08-16T19:14:05.876Z",
+  "dateModified": "2025-08-17T11:01:59.384Z"
+}
