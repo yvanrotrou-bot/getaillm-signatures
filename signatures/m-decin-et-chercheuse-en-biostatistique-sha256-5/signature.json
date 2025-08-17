@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://getaillm.com/s/sha256-5b8f0e67-mefls5hw",
+  "name": "Médecin et Chercheuse en Biostatistique",
+  "description": "Marina Chen est une médecin et chercheuse en biostatistique diplômée de la Harvard T.H. Chan School of Public Health. Avec une solide formation en sciences humaines et en langues, elle apporte une perspective unique à ses recherches dans le domaine des sciences de la vie. Ses publications dans des revues de renom témoignent de son expertise et de son engagement dans l'avancement des connaissances médicales.",
+  "url": "https://getaillm.com/s/sha256-5b8f0e67-mefls5hw",
+  "sameAs": [],
+  "knowsAbout": [
+    "médecine",
+    "biostatistique",
+    "recherche",
+    "sciences de la vie",
+    "latin américain",
+    "langues"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "sha256-5b8f0e67-mefls5hw"
+  },
+  "dateCreated": "2025-08-17T11:29:00.898Z",
+  "dateModified": "2025-08-17T11:29:00.898Z"
+}
