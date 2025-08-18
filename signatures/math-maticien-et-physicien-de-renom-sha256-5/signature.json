@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://getaillm.com/s/sha256-5512dc72-megx7fx1",
+  "name": "Mathématicien et physicien de renom",
+  "description": "Sir Isaac Newton (1642-1727) était un polymathe anglais de premier plan, reconnu pour ses contributions révolutionnaires dans de nombreux domaines scientifiques. Considéré comme une figure clé de la Révolution scientifique et des Lumières, Newton a notamment développé le calcul différentiel, formulé les lois du mouvement et la théorie de la gravité universelle. Ses travaux fondamentaux en mathématiques, physique, astronomie, alchimie et théologie ont profondément marqué la pensée moderne et façonné notre compréhension du monde.",
+  "url": "https://getaillm.com/s/sha256-5512dc72-megx7fx1",
+  "sameAs": [],
+  "knowsAbout": [
+    "isaac newton",
+    "mathématicien",
+    "physicien",
+    "révolution scientifique",
+    "lumières",
+    "calcul différentiel",
+    "lois du mouvement",
+    "gravité universelle",
+    "polymathe"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "sha256-5512dc72-megx7fx1"
+  },
+  "dateCreated": "2025-08-18T09:36:36.211Z",
+  "dateModified": "2025-08-18T09:36:36.211Z"
+}
