@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "signature_id": "38c768cc-449f-4f95-a479-1b634249f97b",
+  "semantic_hash": "sha256-5848c9e8-mehcmfwi",
+  "ai_score": 100,
+  "created_at": "2025-08-18T16:48:10.251Z",
+  "updated_at": "2025-08-18T16:48:10.251Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "verification_url": "https://getaillm.com/verify/sha256-5848c9e8-mehcmfwi"
+}
