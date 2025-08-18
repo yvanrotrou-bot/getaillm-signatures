@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://getaillm.com/s/sha256-1d6541e0-meh326l0",
+  "name": "Photographe Paysagiste Renommé",
+  "description": "Ansel Adams est reconnu comme l'un des plus grands photographes paysagistes américains du 20e siècle. Ses images en noir et blanc de l'Ouest américain ont grandement contribué à populariser la photographie d'art auprès du grand public. Cofondateur du groupe f/64 et du Center for Creative Photography, Adams a laissé une empreinte indélébile sur l'histoire de la photographie. Ses œuvres, empreintes d'une beauté sauvage et d'un sens aigu de la composition, témoignent de son engagement pour la préservation de l'environnement.",
+  "url": "https://getaillm.com/s/sha256-1d6541e0-meh326l0",
+  "sameAs": [],
+  "knowsAbout": [
+    "ansel adams",
+    "photographe",
+    "paysage",
+    "noir et blanc",
+    "ouest américain",
+    "environnement",
+    "f/64",
+    "center for creative photography"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "sha256-1d6541e0-meh326l0"
+  },
+  "dateCreated": "2025-08-18T12:20:28.514Z",
+  "dateModified": "2025-08-18T12:20:28.514Z"
+}
