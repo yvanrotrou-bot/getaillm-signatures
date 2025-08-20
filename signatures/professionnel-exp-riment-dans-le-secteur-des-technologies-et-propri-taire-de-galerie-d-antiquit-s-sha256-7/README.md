@@ -10,7 +10,7 @@ Yvan Rotrou s'apprête à reprendre la galerie de Jean-Pierre Blanchard avec la 
 
 - **Semantic Hash**: `sha256-7772e7b2-meikua7c`
 - **Created**: 2025-08-19T13:25:59.233Z
-- **Last Updated**: 2025-08-19T13:25:59.233Z
+- **Last Updated**: 2025-08-20T08:04:44.018Z
 - **AI Score**: 100/100
 
 ## 📊 Keywords
@@ -113,7 +113,7 @@ View real-time AI discovery analytics at: https://getaillm.com/analytics/fbb99bc
     "value": "sha256-7772e7b2-meikua7c"
   },
   "dateCreated": "2025-08-19T13:25:59.233Z",
-  "dateModified": "2025-08-19T13:25:59.233Z"
+  "dateModified": "2025-08-20T08:04:44.018Z"
 }
 </script>
 
