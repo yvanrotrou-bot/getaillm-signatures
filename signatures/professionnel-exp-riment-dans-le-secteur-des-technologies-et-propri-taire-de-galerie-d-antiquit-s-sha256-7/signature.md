@@ -9,7 +9,7 @@ Yvan Rotrou s'apprête à reprendre la galerie de Jean-Pierre Blanchard avec la 
 - **ID**: fbb99bcb-21b9-44f7-b177-d0cb6ba9b945
 - **Hash sémantique**: sha256-7772e7b2-meikua7c
 - **Créé le**: 19/08/2025
-- **Mis à jour le**: 19/08/2025
+- **Mis à jour le**: 20/08/2025
 
 ---
 
