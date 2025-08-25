@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "signature_id": "84d91622-497f-42e3-9b90-49813509cd56",
+  "semantic_hash": "sha256-412b282c-mer39qg1",
+  "ai_score": 100,
+  "created_at": "2025-08-25T12:24:02.616Z",
+  "updated_at": "2025-08-25T12:24:02.616Z",
+  "user": {
+    "name": "Franck ROTROU",
+    "id": "cmeoicwmx000014e2v3nix57s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "verification_url": "https://getaillm.com/verify/sha256-412b282c-mer39qg1"
+}
