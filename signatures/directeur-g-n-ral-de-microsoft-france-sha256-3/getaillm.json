@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "signature_id": "30119b25-8626-476f-b550-45b4b91f2dad",
+  "semantic_hash": "sha256-3165cd03-meu64ch6",
+  "ai_score": 100,
+  "created_at": "2025-08-27T16:07:08.600Z",
+  "updated_at": "2025-08-27T16:07:08.600Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "verification_url": "https://getaillm.com/verify/sha256-3165cd03-meu64ch6"
+}
