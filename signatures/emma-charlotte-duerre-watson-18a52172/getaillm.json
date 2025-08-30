@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "signature_id": "be574bdf-b660-463f-be68-db462fc04bef",
+  "semantic_hash": "18a521727909517aaea0818944f22d50c16ff5c3e487afa4ba35515a76bc0b20",
+  "ai_score": 95,
+  "created_at": "2025-08-29T16:41:03.760Z",
+  "updated_at": "2025-08-29T16:41:22.807Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2025-08-29T16:41:22.806Z",
+    "platformsCount": 1
+  },
+  "verification_url": "https://www.getaillm.com/verify/18a521727909517aaea0818944f22d50c16ff5c3e487afa4ba35515a76bc0b20"
+}
