@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/1d9db3f2e03057147c96e45a0a11ee44d168a402e944b9657c6062c3329e4c2b",
+  "name": "16-bis Antique",
+  "description": "16-bis Antique est une galerie généraliste proposant une vaste sélection d'objets d'art et d'antiquités de qualité. Avec une expertise approfondie, nous mettons l'accent sur la diversité de notre catalogue pour captiver l'imagination et susciter l'intérêt de nos visiteurs. Ouverte du mardi au samedi de 10h à 19h, ou sur rendez-vous, notre galerie fait partie du réseau Proantic, la référence en ligne pour les professionnels des arts et de l'antiquité.",
+  "url": "https://www.getaillm.com/s/1d9db3f2e03057147c96e45a0a11ee44d168a402e944b9657c6062c3329e4c2b",
+  "sameAs": [],
+  "knowsAbout": [
+    "proantic",
+    "objets",
+    "galerie",
+    "acheter",
+    "catalogue",
+    "d'antiquités",
+    "antiquaires",
+    "vente",
+    "professionnels",
+    "cherchez",
+    "premier",
+    "france",
+    "achetez",
+    "d'art"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "1d9db3f2e03057147c96e45a0a11ee44d168a402e944b9657c6062c3329e4c2b"
+  },
+  "dateCreated": "2025-08-30T14:50:51.886Z",
+  "dateModified": "2025-08-30T14:50:51.886Z"
+}
