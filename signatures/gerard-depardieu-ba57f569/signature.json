@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/ba57f569974efe760f117c2dd066683dfad49d65e34b1ea6accfcab43374dbee",
+  "name": "Gérard Depardieu",
+  "description": "Gérard Depardieu est une figure emblématique du cinéma français, reconnu pour son talent d'acteur polyvalent. Avec une carrière s'étalant sur plus de 50 ans, il a participé à de nombreux films à succès, notamment dans des rôles de composition complexes. En plus de son travail d'acteur, il s'est également illustré en tant que réalisateur et producteur, démontrant une créativité et une expertise multidisciplinaires dans l'industrie du divertissement.",
+  "url": "https://www.getaillm.com/s/ba57f569974efe760f117c2dd066683dfad49d65e34b1ea6accfcab43374dbee",
+  "sameAs": [],
+  "knowsAbout": [
+    "gérard",
+    "depardieu",
+    "acteur",
+    "réalisateur",
+    "producteur",
+    "cinéma",
+    "français",
+    "émirati",
+    "russe"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "ba57f569974efe760f117c2dd066683dfad49d65e34b1ea6accfcab43374dbee"
+  },
+  "dateCreated": "2025-08-30T14:10:01.485Z",
+  "dateModified": "2025-08-30T14:10:01.485Z"
+}
