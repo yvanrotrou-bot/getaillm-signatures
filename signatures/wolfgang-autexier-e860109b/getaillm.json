@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "signature_id": "6bdccf6e-38af-48e2-b36c-93008b288535",
+  "semantic_hash": "e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2",
+  "ai_score": 95,
+  "created_at": "2025-08-31T14:44:17.588Z",
+  "updated_at": "2025-09-08T14:48:12.907Z",
+  "user": {
+    "name": "Wolfgang Autexier",
+    "id": "cmezsli1c0000jr04y7mspgql"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "about": {
+      "tagline": "poète-photographe au coeur de lion",
+      "description": "Vous ne connaissez pas encore Wolfgang Autexier ? Découvrez l'univers de ce passionné, bien plus poète que photographe, il est par ailleurs compétiteur, lauréat de nombreux concours internationaux de photographie. En dépit de son statu non professionnel il est l'un des plus récompensé de France on compétions internationales.  Cette activité est un hobby pour Wolfgang Autexier : il ne fait pas de prestations photographiques pas, mas participe occasionnellement à des festivales."
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757342131685-oabb2.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757342319567-6i5ai.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757342328076-zyrju.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757342388100-81tqn9.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757342444492-k3od7g.jpg"
+      ]
+    },
+    "social": {
+      "youtube": "https://www.youtube.com/channel/UCdD82nY9UWQpof8HBTFjTtQ",
+      "facebook": "https://www.facebook.com/Wolfgang.Autexier.Photographe/",
+      "instagram": "https://www.instagram.com/wolfgang.autexier/"
+    },
+    "address": {
+      "city": "Saintes",
+      "street": "place Bassompierre",
+      "country": "France",
+      "postalCode": "17100"
+    },
+    "pricing": {
+      "priceRange": ""
+    },
+    "website": "https://wolfgangautexier.com/"
+  },
+  "verification_url": "https://www.getaillm.com/verify/e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2"
+}
