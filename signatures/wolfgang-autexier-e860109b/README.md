@@ -22,7 +22,7 @@ Photographe d'art autodidacte, Wolfgang Autexier s'est forgé une réputation in
 
 - **Semantic Hash**: `e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2`
 - **Created**: 2025-08-31T14:44:17.588Z
-- **Last Updated**: 2025-09-08T14:48:12.907Z
+- **Last Updated**: 2025-09-10T16:54:33.327Z
 - **AI Score**: 95/100
 
 
@@ -90,7 +90,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/6bd
     "value": "e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2"
   },
   "dateCreated": "2025-08-31T14:44:17.588Z",
-  "dateModified": "2025-09-08T14:48:12.907Z",
+  "dateModified": "2025-09-10T16:54:33.327Z",
   "address": {
     "city": "Saintes",
     "street": "place Bassompierre",
