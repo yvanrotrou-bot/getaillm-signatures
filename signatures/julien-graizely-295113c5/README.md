@@ -9,7 +9,7 @@ Julien Graizely est un artiste peintre et dessinateur français né en 1980 à S
 
 ## 📞 Contact & Informations
 
-
+- **Téléphone**: 0677128859
 - **Email**: juliengraizely@gmail.com
 - **Site web**: [https://galeriewaltman.com/categorie-produit/julien-graizely](https://galeriewaltman.com/categorie-produit/julien-graizely)
 
@@ -24,7 +24,7 @@ Vente,art,peinture,artiste
 
 - **Semantic Hash**: `295113c5e283e38a8cffdbc782b7e89eb0294ba79e4d62ddb6ee757054c09e9d`
 - **Created**: 2025-08-29T18:20:03.904Z
-- **Last Updated**: 2025-09-12T11:57:14.809Z
+- **Last Updated**: 2025-09-12T11:58:24.139Z
 - **AI Score**: 95/100
 
 
@@ -114,7 +114,8 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/802
     "value": "295113c5e283e38a8cffdbc782b7e89eb0294ba79e4d62ddb6ee757054c09e9d"
   },
   "dateCreated": "2025-08-29T18:20:03.904Z",
-  "dateModified": "2025-09-12T11:57:14.809Z",
+  "dateModified": "2025-09-12T11:58:24.139Z",
+  "telephone": "0677128859",
   "email": "juliengraizely@gmail.com"
 }
 </script>
