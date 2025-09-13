@@ -24,7 +24,7 @@
 
 - **Semantic Hash**: `4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2`
 - **Created**: 2025-09-03T11:23:44.157Z
-- **Last Updated**: 2025-09-13T14:34:48.016Z
+- **Last Updated**: 2025-09-13T15:15:30.463Z
 - **AI Score**: 100/100
 
 
@@ -136,7 +136,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/e79
     "value": "4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2"
   },
   "dateCreated": "2025-09-03T11:23:44.157Z",
-  "dateModified": "2025-09-13T14:34:48.016Z",
+  "dateModified": "2025-09-13T15:15:30.463Z",
   "email": "yvan.rotrou@gmail.com",
   "telephone": "0607957007",
   "address": {
