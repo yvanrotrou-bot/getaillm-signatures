@@ -4,7 +4,7 @@
   "semantic_hash": "4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2",
   "ai_score": 100,
   "created_at": "2025-09-03T11:23:44.157Z",
-  "updated_at": "2025-09-13T13:42:35.383Z",
+  "updated_at": "2025-09-13T13:44:01.190Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -12,7 +12,10 @@
   "stats": {
     "views": 0,
     "exports": 0,
-    "aiCitations": 0
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2025-09-13T13:43:29.438Z",
+    "platformsCount": 1
   },
   "enriched_data": {
     "faq": [],
