@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "signature_id": "e79da5cc-7d0c-4d4d-8687-b029b956af2b",
+  "semantic_hash": "4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2",
+  "ai_score": 100,
+  "created_at": "2025-09-03T11:23:44.157Z",
+  "updated_at": "2025-09-13T13:42:35.383Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "faq": [],
+    "seo": {
+      "keywords": "",
+      "description": "",
+      "googleBusiness": ""
+    },
+    "about": {
+      "team": "",
+      "experience": "",
+      "description": "Au cœur de la charmante ville de Saintes, 16bis antique s'est établie comme une référence incontournable dans l'univers des antiquités et des objets d'art. Notre galerie généraliste cultive une approche unique, alliant expertise approfondie et passion authentique pour le patrimoine artistique. Depuis notre création, nous nous efforçons de créer un pont entre les époques, proposant des pièces soigneusement sélectionnées du 17e au 21e siècle.",
+      "specialties": "",
+      "certifications": ""
+    },
+    "email": "yvan.rotrou@gmail.com",
+    "hours": {
+      "friday": {
+        "open": "09:30",
+        "close": "18:30",
+        "closed": false
+      },
+      "monday": {
+        "open": "09:30",
+        "close": "18:30",
+        "closed": true
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "14:00",
+        "closed": false
+      },
+      "tuesday": {
+        "open": "09:30",
+        "close": "18:30",
+        "closed": false
+      },
+      "saturday": {
+        "open": "09:30",
+        "close": "18:30",
+        "closed": false
+      },
+      "thursday": {
+        "open": "09:30",
+        "close": "18:30",
+        "closed": false
+      },
+      "wednesday": {
+        "open": "09:30",
+        "close": "18:30",
+        "closed": false
+      }
+    },
+    "media": {
+      "logo": "",
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757001187302-dwcsu.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757066940233-ablba9.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757066946241-nl52d.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1757066951339-wo3rbt.jpg"
+      ],
+      "photos": [],
+      "videos": []
+    },
+    "phone": "0607957007",
+    "mobile": "0607957007",
+    "social": {
+      "twitter": "",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/16bis.Antique",
+      "linkedin": "",
+      "instagram": "https://www.instagram.com/16bis.antique/"
+    },
+    "address": {
+      "city": "saintes",
+      "street": "175 avenue Gambetta",
+      "country": "France",
+      "postalCode": "17100"
+    },
+    "pricing": {
+      "currency": "EUR",
+      "priceRange": "",
+      "paymentMethods": [
+        "Espèces",
+        "Carte bancaire",
+        "Chèque",
+        "Virement",
+        "PayPal"
+      ]
+    },
+    "website": "https://www.proantic.com/galerie/16-bis-antique/",
+    "services": [],
+    "testimonials": []
+  },
+  "verification_url": "https://www.getaillm.com/verify/4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2"
+}
