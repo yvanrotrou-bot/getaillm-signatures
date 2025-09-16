@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/e9337d369b80c88c547de06f857a537c996c9a50a58a9a229b9db8c3da8f0ecf",
+  "name": "Hans Zimmer",
+  "description": "Hans Zimmer est un compositeur de musique de film et producteur musical allemand de renommée mondiale. Avec plus de 200 crédits à son actif, il a remporté de nombreuses récompenses prestigieuses, notamment deux Oscars, un BAFTA et trois Golden Globes. Reconnu pour son talent à créer des bandes originales épiques et émotionnelles, Zimmer a collaboré avec les plus grands réalisateurs d'Hollywood sur des films à succès comme Dune, Inception, Le Roi Lion et Pirates des Caraïbes. Grâce à son expérience et son expertise uniques, il continue d'être l'un des compositeurs les plus demandés de l'industrie cinématographique.",
+  "url": "https://www.getaillm.com/s/e9337d369b80c88c547de06f857a537c996c9a50a58a9a229b9db8c3da8f0ecf",
+  "sameAs": [],
+  "knowsAbout": [
+    "zimmer",
+    "musique",
+    "compositeur",
+    "academy",
+    "award",
+    "golden",
+    "globe",
+    "dune",
+    "oscars",
+    "producer"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "e9337d369b80c88c547de06f857a537c996c9a50a58a9a229b9db8c3da8f0ecf"
+  },
+  "dateCreated": "2025-09-16T08:04:01.352Z",
+  "dateModified": "2025-09-16T08:04:01.352Z"
+}
