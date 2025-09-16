@@ -4,7 +4,7 @@
   "semantic_hash": "e9337d369b80c88c547de06f857a537c996c9a50a58a9a229b9db8c3da8f0ecf",
   "ai_score": 95,
   "created_at": "2025-09-16T08:04:01.352Z",
-  "updated_at": "2025-09-16T08:04:01.352Z",
+  "updated_at": "2025-09-16T08:08:59.968Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -12,12 +12,16 @@
   "stats": {
     "views": 0,
     "exports": 0,
-    "aiCitations": 0
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2025-09-16T08:08:59.967Z",
+    "platformsCount": 1
   },
   "enriched_data": {
     "industry": "Technologies",
     "personName": "Hans Zimmer",
-    "generatedBy": "claude-3"
+    "generatedBy": "claude-3",
+    "lastWikiSync": "2025-09-16T08:08:59.950Z"
   },
   "verification_url": "https://www.getaillm.com/verify/e9337d369b80c88c547de06f857a537c996c9a50a58a9a229b9db8c3da8f0ecf"
 }
