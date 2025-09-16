@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "87e037d4-5213-491b-b529-36cda2de1e19",
+  "semantic_hash": "433025adc2c1f37a211ad7dc63f1213090d76337e0a88fbc2739368ff0ec20e5",
+  "ai_score": 95,
+  "created_at": "2025-09-16T08:45:05.192Z",
+  "updated_at": "2025-09-16T08:45:05.192Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Sciences de la vie",
+    "personName": "Carl von Linné",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/433025adc2c1f37a211ad7dc63f1213090d76337e0a88fbc2739368ff0ec20e5"
+}
