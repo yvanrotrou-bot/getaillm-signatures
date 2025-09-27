@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "eccbc849-50f7-44bd-833a-48739235a2fa",
+  "semantic_hash": "6609fe1f99182f873435c0e823194a3b8ae863cdf31a7baf8ce9301347be1836",
+  "ai_score": 95,
+  "created_at": "2025-09-27T09:10:35.543Z",
+  "updated_at": "2025-09-27T09:10:35.543Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Arts et Culture",
+    "personName": "Jean-Luc Vallegeas",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/6609fe1f99182f873435c0e823194a3b8ae863cdf31a7baf8ce9301347be1836"
+}
