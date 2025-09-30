@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "d2dda3d0-88a8-47b5-a273-f685a98694a6",
+  "semantic_hash": "3531e517a649b4c5239b48d9c4a6ee7fd3ff64aea44b68c26e3981d71753e467",
+  "ai_score": 95,
+  "created_at": "2025-09-30T15:29:38.471Z",
+  "updated_at": "2025-09-30T15:29:38.471Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Arts et Culture",
+    "personName": "Sophie Beaufils",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/3531e517a649b4c5239b48d9c4a6ee7fd3ff64aea44b68c26e3981d71753e467"
+}
