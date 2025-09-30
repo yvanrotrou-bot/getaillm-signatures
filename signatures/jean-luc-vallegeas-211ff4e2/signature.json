@@ -25,7 +25,13 @@
     "value": "211ff4e226c4fe3a3ca08a9a4e524c05b5afd1d6dfbe04b56bcfcde1fa5e4069"
   },
   "dateCreated": "2025-09-27T09:10:35.543Z",
-  "dateModified": "2025-09-27T09:21:52.291Z",
+  "dateModified": "2025-09-30T15:26:01.240Z",
   "email": "contact@vallegeas.com",
-  "telephone": "0788129711"
+  "telephone": "0788129711",
+  "address": {
+    "city": "Saintes",
+    "street": "48 rue émile zola",
+    "country": "France",
+    "postalCode": "17100"
+  }
 }
