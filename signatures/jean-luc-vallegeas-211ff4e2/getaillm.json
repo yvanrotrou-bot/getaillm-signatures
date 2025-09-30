@@ -4,7 +4,7 @@
   "semantic_hash": "211ff4e226c4fe3a3ca08a9a4e524c05b5afd1d6dfbe04b56bcfcde1fa5e4069",
   "ai_score": 95,
   "created_at": "2025-09-27T09:10:35.543Z",
-  "updated_at": "2025-09-27T09:21:52.291Z",
+  "updated_at": "2025-09-30T15:26:01.240Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -22,6 +22,43 @@
       "description": "L'Art comme Expression de l'Âme : Jean-Luc Vallégeas\n\nParcours Artistique et Vision Créative\nJean-Luc Vallégeas incarne l'essence même de l'artiste peintre contemporain, dont le talent s'est forgé au fil d'une exploration artistique autodidacte passionnée. Basé à Paris, il a développé une signature artistique unique qui transcende les conventions traditionnelles de la peinture figurative. Son parcours, initié dès son plus jeune âge, témoigne d'une évolution constante, passant d'une approche figurative méticuleuse à une expression artistique plus libre et émotionnelle. Cette transformation artistique reflète sa quête perpétuelle d'authenticité et d'innovation dans l'art contemporain français.\n\nTechnique et Innovation Artistique\nLa particularité de l'œuvre de Vallégeas réside dans sa technique distinctive de manipulation du papier. L'artiste ne se contente pas de peindre sur une surface ; il transforme le support lui-même en élément expressif. Par un processus unique d'arrachage et de déchirement du papier, il crée des œuvres où la matière devient narrative. Les couleurs, tantôt dissimulées, tantôt révélées, jouent un rôle crucial dans cette chorégraphie visuelle. Cette approche novatrice permet à l'artiste de capturer l'essence de l'instant présent, créant des compositions où chaque déchirure, chaque couche de couleur raconte une histoire différente.\n\nImpact Émotionnel et Résonance\nLes créations de Jean-Luc Vallegeas se distinguent par leur capacité à susciter des réactions émotionnelles profondes chez les spectateurs. Chaque œuvre devient un dialogue silencieux entre l'artiste et l'observateur, où les émotions brutes transcendent la toile pour toucher l'âme du public. Cette connexion émotionnelle est renforcée par la tension créative entre le contrôle technique et la spontanéité artistique, caractéristique de son travail. Les œuvres de Vallegeas ne sont pas de simples tableaux à contempler, mais des expériences sensorielles complètes qui invitent à la réflexion et à l'introspection.\n\nEngagement et Perspectives\nEn tant qu'artiste peintre professionnel, Jean-Luc Vallegeas poursuit son exploration artistique avec une passion inébranlable. Son atelier parisien est un laboratoire créatif où naissent des œuvres qui continuent de repousser les limites de l'expression artistique contemporaine. Il participe régulièrement à des expositions et des événements artistiques, partageant sa vision unique avec un public toujours plus large.\n\nPour découvrir l'univers artistique de Jean-Luc Vallégeas ou explorer des opportunités de collaboration, les amateurs d'art et les collectionneurs sont invités à prendre contact via son site web ou sa galerie. Chaque nouvelle création est une invitation à partager un moment d'émotion pure, où l'art transcende ses limites traditionnelles pour toucher l'essence même de notre humanité."
     },
     "email": "contact@vallegeas.com",
+    "hours": {
+      "friday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "monday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      }
+    },
     "media": {
       "images": [
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1758964447268-hi1e6e.jpg",
@@ -35,7 +72,13 @@
     "social": {
       "facebook": "https://www.facebook.com/jeanluc.vallegeas.5"
     },
-    "website": "https://entrelesmotsetlescouleurs.fr/portfolio/serie-bistrot/"
+    "address": {
+      "city": "Saintes",
+      "street": "48 rue émile zola",
+      "country": "France",
+      "postalCode": "17100"
+    },
+    "website": "https://entrelesmotsetlescouleurs.fr"
   },
   "verification_url": "https://www.getaillm.com/verify/211ff4e226c4fe3a3ca08a9a4e524c05b5afd1d6dfbe04b56bcfcde1fa5e4069"
 }
