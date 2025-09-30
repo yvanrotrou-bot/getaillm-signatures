@@ -11,8 +11,8 @@ Jean-Luc Vallegeas est un artiste peintre passionné, dont l'art est profondéme
 
 - **Téléphone**: 0788129711
 - **Email**: contact@vallegeas.com
-- **Site web**: [https://entrelesmotsetlescouleurs.fr/portfolio/serie-bistrot/](https://entrelesmotsetlescouleurs.fr/portfolio/serie-bistrot/)
-
+- **Site web**: [https://entrelesmotsetlescouleurs.fr](https://entrelesmotsetlescouleurs.fr)
+- **Adresse**: [object Object]
 
 
 
@@ -22,7 +22,7 @@ Jean-Luc Vallegeas est un artiste peintre passionné, dont l'art est profondéme
 
 - **Semantic Hash**: `211ff4e226c4fe3a3ca08a9a4e524c05b5afd1d6dfbe04b56bcfcde1fa5e4069`
 - **Created**: 2025-09-27T09:10:35.543Z
-- **Last Updated**: 2025-09-27T09:21:52.291Z
+- **Last Updated**: 2025-09-30T15:26:01.240Z
 - **AI Score**: 95/100
 
 
@@ -106,9 +106,15 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/ecc
     "value": "211ff4e226c4fe3a3ca08a9a4e524c05b5afd1d6dfbe04b56bcfcde1fa5e4069"
   },
   "dateCreated": "2025-09-27T09:10:35.543Z",
-  "dateModified": "2025-09-27T09:21:52.291Z",
+  "dateModified": "2025-09-30T15:26:01.240Z",
   "email": "contact@vallegeas.com",
-  "telephone": "0788129711"
+  "telephone": "0788129711",
+  "address": {
+    "city": "Saintes",
+    "street": "48 rue émile zola",
+    "country": "France",
+    "postalCode": "17100"
+  }
 }
 </script>
 
