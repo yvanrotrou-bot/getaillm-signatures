@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/a6ae3289ae84716b7b1e780b5c9d3d25c29289181ee861f05dae1b1aa32fa7fd",
+  "name": "Sophie Beaufils",
+  "description": "Sophie Beaufils est une conteuse professionnelle expérimentée. Avec plus de 10 ans d'expérience dans le domaine du conte, elle captive son public à travers des performances uniques et engageantes. Spécialisée dans les spectacles jeune public, Sophie Beaufils transmet sa passion pour les histoires et les traditions orales à un large auditoire. Basée à Saintes, elle collabore régulièrement avec des institutions culturelles et des événements locaux.",
+  "url": "https://www.getaillm.com/s/a6ae3289ae84716b7b1e780b5c9d3d25c29289181ee861f05dae1b1aa32fa7fd",
+  "sameAs": [],
+  "knowsAbout": [
+    "sophie",
+    "beaufils",
+    "conteuse",
+    "spectacle",
+    "jeune public",
+    "saintes",
+    "cie duo des nuages",
+    "conte"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "a6ae3289ae84716b7b1e780b5c9d3d25c29289181ee861f05dae1b1aa32fa7fd"
+  },
+  "dateCreated": "2025-09-30T15:29:38.471Z",
+  "dateModified": "2025-09-30T15:37:08.642Z",
+  "email": "cierougeetc@gmail.com",
+  "telephone": "0603034735",
+  "address": {
+    "city": "Saintes",
+    "street": "48 émile Zola",
+    "country": "France",
+    "postalCode": "17100"
+  }
+}
