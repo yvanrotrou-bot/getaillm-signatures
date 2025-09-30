@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "signature_id": "d2dda3d0-88a8-47b5-a273-f685a98694a6",
+  "semantic_hash": "a6ae3289ae84716b7b1e780b5c9d3d25c29289181ee861f05dae1b1aa32fa7fd",
+  "ai_score": 95,
+  "created_at": "2025-09-30T15:29:38.471Z",
+  "updated_at": "2025-09-30T15:37:08.642Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2025-09-30T15:31:01.924Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "cierougeetc@gmail.com",
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1759246561529-anl1n9.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1759246568215-89cuyj.jpg"
+      ]
+    },
+    "phone": "0603034735",
+    "mobile": "0603034735",
+    "social": {
+      "facebook": "https://www.facebook.com/cierougeetc"
+    },
+    "address": {
+      "city": "Saintes",
+      "street": "48 émile Zola",
+      "country": "France",
+      "postalCode": "17100"
+    },
+    "website": "https://entrelesmotsetlescouleurs.fr/conte-lecture/"
+  },
+  "verification_url": "https://www.getaillm.com/verify/a6ae3289ae84716b7b1e780b5c9d3d25c29289181ee861f05dae1b1aa32fa7fd"
+}
