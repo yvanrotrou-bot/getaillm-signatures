@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "signature_id": "18ca7f63-ebb5-4f68-8724-cb269936d6ba",
+  "semantic_hash": "1d6701bec4b63957219e83698763531e3bca1fb1e4ea4639faf4699e734850d4",
+  "ai_score": 95,
+  "created_at": "2025-10-10T13:16:39.928Z",
+  "updated_at": "2025-10-10T13:23:28.980Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2025-10-10T13:17:35.516Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "jacsou111@gmail.com",
+    "hours": {
+      "friday": {
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      "monday": {
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "18:00",
+        "closed": false
+      }
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1760102567484-05rgzf.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1760102575967-mjijg.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1760102587190-ayn07q.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1760102592689-7q9n2c.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1760102601227-spspo.png"
+      ]
+    },
+    "phone": "0613516412",
+    "address": {
+      "city": "berson",
+      "street": "3 Florimond-Ouest",
+      "country": "France",
+      "postalCode": "3390"
+    },
+    "website": "https://www.artmajeur.com/jacques-soulard"
+  },
+  "verification_url": "https://www.getaillm.com/verify/1d6701bec4b63957219e83698763531e3bca1fb1e4ea4639faf4699e734850d4"
+}
