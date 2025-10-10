@@ -4,7 +4,7 @@
   "semantic_hash": "1d6701bec4b63957219e83698763531e3bca1fb1e4ea4639faf4699e734850d4",
   "ai_score": 95,
   "created_at": "2025-10-10T13:16:39.928Z",
-  "updated_at": "2025-10-10T13:23:28.980Z",
+  "updated_at": "2025-10-10T13:24:22.552Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -18,6 +18,9 @@
     "platformsCount": 1
   },
   "enriched_data": {
+    "about": {
+      "description": "L'Art de la Sculpture : Entre Pierre et Bronze\n\nMaître sculpteur établi à Blaye, Jacques Soulard façonne la matière depuis plus de deux décennies, créant des œuvres uniques qui allient tradition et modernité. Dans son atelier historique du 32 rue de l'hôpital, il donne vie à des créations où la pierre et le bronze se rencontrent, témoignant d'un savoir-faire artisanal d'exception et d'une sensibilité artistique contemporaine.\n\nExpertise et Savoir-faire\n\nLa maîtrise technique de Jacques Soulard s'exprime à travers deux médiums de prédilection : la pierre et le bronze. Chaque sculpture naît d'un dialogue intime entre l'artiste et la matière, où les gestes ancestraux du tailleur de pierre se mêlent aux techniques modernes de fonderie. Cette dualité permet la création d'œuvres aux textures contrastées, où la rugosité de la pierre dialogue avec les surfaces lisses du bronze. Son expertise particulière dans le travail de la pierre locale de Berson lui permet de créer des pièces profondément ancrées dans le patrimoine culturel de la région, tout en s'inscrivant dans une démarche d'art contemporain.\n\nUn Atelier Vivant au Cœur de Blaye\n\nL'atelier de Jacques Soulard est bien plus qu'un simple espace de création - c'est un lieu de rencontre entre l'art et le public. Situé dans le centre historique de Blaye, cet espace de 120m² accueille les visiteurs dans une atmosphère où la poussière de pierre côtoie les patines du bronze. Les grandes baies vitrées laissent entrer la lumière naturelle, révélant les œuvres en cours de création et les sculptures achevées. C'est dans cet environnement inspirant que l'artiste partage sa passion, expliquant les différentes étapes de création, de l'esquisse initiale à la réalisation finale.\n\nProcessus Créatif et Innovation\n\nLa démarche artistique de Jacques Soulard se caractérise par une recherche constante d'innovation tout en respectant les techniques traditionnelles. Chaque projet débute par une phase d'étude approfondie, où croquis et maquettes permettent d'explorer les possibilités formelles. Le sculpteur utilise ensuite des techniques mixtes, combinant le travail manuel de la pierre avec des procédés de moulage sophistiqués pour le bronze. Cette approche hybride permet la création d'œuvres uniques où les matériaux se répondent et se complètent, créant des pièces qui s'inscrivent pleinement dans l'art contemporain tout en conservant une dimension artisanale authentique.\n\nPour découvrir l'univers créatif de Jacques Soulard et explorer ses dernières créations, son atelier est ouvert aux visites sur rendez-vous. Les amateurs d'art et collectionneurs peuvent ainsi découvrir le processus de création dans son contexte et échanger directement avec l'artiste sur ses inspirations et techniques. Pour organiser une visite ou en savoir plus sur ses œuvres, n'hésitez pas à prendre contact via les coordonnées de l'atelier."
+    },
     "email": "jacsou111@gmail.com",
     "hours": {
       "friday": {
