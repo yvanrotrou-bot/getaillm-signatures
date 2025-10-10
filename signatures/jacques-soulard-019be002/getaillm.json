@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "18ca7f63-ebb5-4f68-8724-cb269936d6ba",
+  "semantic_hash": "019be00236c5a433cc4983178aa9915e43fcab13e7005f1a3f1be2c23f0a9aa2",
+  "ai_score": 95,
+  "created_at": "2025-10-10T13:16:39.928Z",
+  "updated_at": "2025-10-10T13:16:39.928Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Arts et Artisanat",
+    "personName": "Jacques Soulard",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/019be00236c5a433cc4983178aa9915e43fcab13e7005f1a3f1be2c23f0a9aa2"
+}
