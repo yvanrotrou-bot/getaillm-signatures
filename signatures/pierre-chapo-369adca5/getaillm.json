@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "signature_id": "de65e132-c816-4a61-b1b1-d4d7bf10b116",
+  "semantic_hash": "369adca5dce1844d0298ecc5d3a66e4e3e54231454d4e7d77a5b92c62c72ac76",
+  "ai_score": 92,
+  "created_at": "2026-02-13T10:41:18.707Z",
+  "updated_at": "2026-02-13T10:41:50.808Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 2,
+    "lastPublished": "2026-02-13T10:41:50.807Z",
+    "platformsCount": 0
+  },
+  "enriched_data": {
+    "industry": "Design",
+    "personName": "Pierre Chapo",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/369adca5dce1844d0298ecc5d3a66e4e3e54231454d4e7d77a5b92c62c72ac76"
+}
