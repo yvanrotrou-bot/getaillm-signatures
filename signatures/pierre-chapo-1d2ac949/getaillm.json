@@ -4,7 +4,7 @@
   "semantic_hash": "1d2ac94906c70a6eda2986caf8853154a281c267ffe61a29440fb0effdce6e31",
   "ai_score": 92,
   "created_at": "2026-02-13T10:41:18.707Z",
-  "updated_at": "2026-02-13T11:02:43.488Z",
+  "updated_at": "2026-02-13T11:03:43.550Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -22,7 +22,6 @@
     "media": {
       "images": [
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1770980402563-gm982fp.jpg",
-        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1770980461983-igms9u.png",
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1770980463206-gervam.jpg",
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1770980465156-f4whxa.jpg"
       ]
