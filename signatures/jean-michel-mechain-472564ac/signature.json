@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/472564ac3c0a2378d64fe1f2d61a1c6fc59a66d254f4d2d1501988a213247531",
+  "name": "Jean-Michel Méchain",
+  "description": "Jean-Michel Méchain est un ancien colonel de gendarmerie français avec une carrière prestigieuse. Il a servi dans des missions prestigieuses, de Chamonix à Pristina en passant par Beyrouth. Bien que faisant l'objet d'accusations de fuites de documents classifiés en 2000, il a finalement obtenu un non-lieu en 2007. Désormais libre de s'exprimer, il se consacre à l'écriture et à la construction d'une chapelle près de Saint-Savinien, mettant à profit son expertise en tant que bâtisseur.",
+  "url": "https://www.getaillm.com/s/472564ac3c0a2378d64fe1f2d61a1c6fc59a66d254f4d2d1501988a213247531",
+  "sameAs": [],
+  "knowsAbout": [
+    "jean-michel",
+    "colonel",
+    "carrière",
+    "méchain",
+    "gendarmerie",
+    "exemplaire",
+    "chamonix",
+    "pristina",
+    "beyrouth",
+    "non-lieu"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "472564ac3c0a2378d64fe1f2d61a1c6fc59a66d254f4d2d1501988a213247531"
+  },
+  "dateCreated": "2026-02-17T07:47:56.415Z",
+  "dateModified": "2026-02-17T07:54:18.101Z",
+  "address": {
+    "city": "saint savinien",
+    "street": "Chapelle du Puy-Gauthreul",
+    "country": "france",
+    "postalCode": "17350"
+  }
+}
