@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "ca5727a3-e615-45b5-a0b6-bdbd5343b6a9",
+  "semantic_hash": "08bb91d37234c7eaf98a20211837bfb1c2769d8a3b09e30236cd94111e2d6449",
+  "ai_score": 95,
+  "created_at": "2026-02-17T07:47:56.415Z",
+  "updated_at": "2026-02-17T07:47:56.415Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Technologies",
+    "personName": "Jean-Michel Méchain",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/08bb91d37234c7eaf98a20211837bfb1c2769d8a3b09e30236cd94111e2d6449"
+}
