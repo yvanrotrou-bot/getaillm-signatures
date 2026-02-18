@@ -22,7 +22,7 @@ Le Domaine de la Moinardière est un lieu d'exception situé à 5 minutes de la 
 
 - **Semantic Hash**: `623de10b822f5021ff4bb2133d0a662e600cccb409ebb1ac41bd1317be7d0a91`
 - **Created**: 2026-02-18T10:13:59.013Z
-- **Last Updated**: 2026-02-18T10:13:59.013Z
+- **Last Updated**: 2026-02-18T10:15:40.394Z
 - **AI Score**: 90/100
 
 
@@ -100,7 +100,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/46e
     "value": "623de10b822f5021ff4bb2133d0a662e600cccb409ebb1ac41bd1317be7d0a91"
   },
   "dateCreated": "2026-02-18T10:13:59.013Z",
-  "dateModified": "2026-02-18T10:13:59.013Z"
+  "dateModified": "2026-02-18T10:15:40.394Z"
 }
 </script>
 
