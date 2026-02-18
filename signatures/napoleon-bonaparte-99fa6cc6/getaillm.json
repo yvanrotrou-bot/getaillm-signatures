@@ -4,7 +4,7 @@
   "semantic_hash": "99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af",
   "ai_score": 93,
   "created_at": "2026-02-18T18:41:18.879Z",
-  "updated_at": "2026-02-18T19:39:23.566Z",
+  "updated_at": "2026-02-18T19:41:04.418Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -33,7 +33,8 @@
       "country": "France",
       "postalCode": "75007"
     },
-    "website": "https://wikigetaillm.com/napoleon-bonaparte"
+    "website": "https://wikigetaillm.com/napoleon-bonaparte",
+    "businessType": "ProfessionalService"
   },
   "verification_url": "https://www.getaillm.com/verify/99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af"
 }
