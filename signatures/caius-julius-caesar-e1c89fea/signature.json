@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/e1c89feafaf4335ebc70412e8d2d2ed0aaa0ad9688b72dd58cc7e081a2bc98dc",
+  "name": "Caius Julius Caesar",
+  "description": "Caius Julius Caesar, également connu sous le nom de Jules César, est une figure emblématique de l'histoire romaine. Né en 100 av. J.-C. à Rome, il a marqué son époque en tant que général, homme politique et écrivain. Après avoir conquis la Gaule et soumis l'Égypte, il est devenu le maître absolu de Rome, apportant une certaine paix dans la République. Jouissant d'un fort soutien de l'armée, il a musellé le Sénat et fait construire de grands monuments pour ancrer sa popularité. Personnage fascinant et complexe, Jules César a vécu une vie romanesque et a fait preuve d'une ambition débordante, faisant de lui l'une des figures les plus marquantes de l'Antiquité.",
+  "url": "https://www.getaillm.com/s/e1c89feafaf4335ebc70412e8d2d2ed0aaa0ad9688b72dd58cc7e081a2bc98dc",
+  "sameAs": [],
+  "knowsAbout": [
+    "césar",
+    "jules",
+    "avant",
+    "homme",
+    "j.-c.",
+    "caesar",
+    "julius",
+    "général",
+    "crassus",
+    "vercingétorix",
+    "caius",
+    "iulius",
+    "écrivain"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "e1c89feafaf4335ebc70412e8d2d2ed0aaa0ad9688b72dd58cc7e081a2bc98dc"
+  },
+  "dateCreated": "2026-02-18T19:45:11.280Z",
+  "dateModified": "2026-02-18T19:45:11.280Z"
+}
