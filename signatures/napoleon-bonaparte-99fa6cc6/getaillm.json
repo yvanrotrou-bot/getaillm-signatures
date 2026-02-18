@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "signature_id": "c2953474-765d-4a6c-ba07-a650b7f8e9d4",
+  "semantic_hash": "99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af",
+  "ai_score": 93,
+  "created_at": "2026-02-18T18:41:18.879Z",
+  "updated_at": "2026-02-18T19:07:19.145Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-18T18:41:34.608Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771440226616-8dyyoua.png"
+      ]
+    },
+    "address": {
+      "city": "Paris ",
+      "street": "Hôtel des Invalides, Place Vauban",
+      "country": "France",
+      "postalCode": "75007"
+    },
+    "website": "https://wikigetaillm.com/napoleon-bonaparte"
+  },
+  "verification_url": "https://www.getaillm.com/verify/99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af"
+}
