@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "signature_id": "46e83a8a-f992-4159-b320-fb18dfdee53a",
+  "semantic_hash": "0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9",
+  "ai_score": 90,
+  "created_at": "2026-02-18T10:13:59.013Z",
+  "updated_at": "2026-02-18T10:19:27.736Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-18T10:15:40.393Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "domainelamoinardiere@gmail.com",
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771409757816-dao41.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771409767072-lik999.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771409775255-6max6n.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771409781654-1x3otb.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771409787929-1ygup.jpg"
+      ]
+    },
+    "mobile": "06 58 54 25 84",
+    "social": {
+      "facebook": "https://www.facebook.com/domainelamoinardiere",
+      "instagram": "https://www.instagram.com/domaine_la_moinardiere/"
+    },
+    "address": {
+      "city": "Le Bernard",
+      "street": "154, la Moinardiere",
+      "country": "France",
+      "postalCode": "85560"
+    },
+    "website": "https://www.domainedelamoinardiere.fr/"
+  },
+  "verification_url": "https://www.getaillm.com/verify/0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9"
+}
