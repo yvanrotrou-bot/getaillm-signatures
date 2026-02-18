@@ -5,7 +5,7 @@ Caius Julius Caesar, également connu sous le nom de Jules César, est une figur
 
 ## Contact
 
-🌐 https://wikigetaillm.com • 📍 [object Object]
+🌐 https://wikigetaillm.com/jules-cesar-1 • 📍 [object Object]
 
 
 ---
