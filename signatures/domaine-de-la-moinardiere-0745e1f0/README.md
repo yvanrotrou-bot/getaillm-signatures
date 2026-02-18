@@ -22,7 +22,7 @@ Le Domaine de la Moinardière est un lieu d'exception situé à 5 minutes de la 
 
 - **Semantic Hash**: `0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9`
 - **Created**: 2026-02-18T10:13:59.013Z
-- **Last Updated**: 2026-02-18T11:12:32.973Z
+- **Last Updated**: 2026-02-18T15:58:48.888Z
 - **AI Score**: 90/100
 
 
@@ -100,7 +100,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/46e
     "value": "0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9"
   },
   "dateCreated": "2026-02-18T10:13:59.013Z",
-  "dateModified": "2026-02-18T11:12:32.973Z",
+  "dateModified": "2026-02-18T15:58:48.888Z",
   "email": "domainelamoinardiere@gmail.com",
   "address": {
     "city": "Le Bernard",
