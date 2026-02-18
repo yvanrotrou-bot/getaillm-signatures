@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "c2953474-765d-4a6c-ba07-a650b7f8e9d4",
+  "semantic_hash": "9c22a9bc9806cb51f291f9350eff08712a72324478a28a1dee5bf60319918e08",
+  "ai_score": 93,
+  "created_at": "2026-02-18T18:41:18.879Z",
+  "updated_at": "2026-02-18T18:41:18.879Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Technologies",
+    "personName": "Napoléon Bonaparte",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/9c22a9bc9806cb51f291f9350eff08712a72324478a28a1dee5bf60319918e08"
+}
