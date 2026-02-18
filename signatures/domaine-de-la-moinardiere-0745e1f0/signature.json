@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9",
+  "name": "Domaine de la Moinardière",
+  "description": "Le Domaine de la Moinardière est un lieu d'exception situé à 5 minutes de la mer, en Vendée (85). Spécialisé dans l'accueil d'événements prestigieux tels que mariages, réceptions, anniversaires, séminaires, congrès et team building, notre équipe expérimentée met tout en œuvre pour faire de votre événement une expérience inoubliable. Avec notre savoir-faire en matière d'organisation d'événements sur-mesure et notre cadre idyllique, nous vous garantissons un résultat à la hauteur de vos attentes.",
+  "url": "https://www.getaillm.com/s/0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9",
+  "sameAs": [],
+  "knowsAbout": [
+    "domaine",
+    "vendée",
+    "mariages",
+    "réceptions",
+    "anniversaires",
+    "séminaires",
+    "congrès",
+    "team building"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9"
+  },
+  "dateCreated": "2026-02-18T10:13:59.013Z",
+  "dateModified": "2026-02-18T10:19:27.736Z",
+  "email": "domainelamoinardiere@gmail.com",
+  "address": {
+    "city": "Le Bernard",
+    "street": "154, la Moinardiere",
+    "country": "France",
+    "postalCode": "85560"
+  }
+}
