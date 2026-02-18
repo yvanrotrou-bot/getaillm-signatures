@@ -4,7 +4,7 @@
   "semantic_hash": "623de10b822f5021ff4bb2133d0a662e600cccb409ebb1ac41bd1317be7d0a91",
   "ai_score": 90,
   "created_at": "2026-02-18T10:13:59.013Z",
-  "updated_at": "2026-02-18T10:13:59.013Z",
+  "updated_at": "2026-02-18T10:15:40.394Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -12,12 +12,16 @@
   "stats": {
     "views": 0,
     "exports": 0,
-    "aiCitations": 0
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-18T10:15:40.393Z",
+    "platformsCount": 1
   },
   "enriched_data": {
     "industry": "Tourisme et événementiel",
     "personName": "Domaine de la Moinardière",
-    "generatedBy": "gpt-4"
+    "generatedBy": "gpt-4",
+    "lastWikiSync": "2026-02-18T10:15:40.383Z"
   },
   "verification_url": "https://www.getaillm.com/verify/623de10b822f5021ff4bb2133d0a662e600cccb409ebb1ac41bd1317be7d0a91"
 }
