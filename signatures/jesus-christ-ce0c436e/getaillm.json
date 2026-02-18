@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "0203c28f-8116-47d0-afd9-05e8738edece",
+  "semantic_hash": "ce0c436edf5ebc5d343a7f63a31869c1af98531689d62371e0a481a51d4eed72",
+  "ai_score": 93,
+  "created_at": "2026-02-18T20:28:37.865Z",
+  "updated_at": "2026-02-18T20:28:37.865Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Religion",
+    "personName": "Jésus Christ",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/ce0c436edf5ebc5d343a7f63a31869c1af98531689d62371e0a481a51d4eed72"
+}
