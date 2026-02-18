@@ -22,7 +22,7 @@ Napoléon Bonaparte est une figure historique emblématique, connu pour son rôl
 
 - **Semantic Hash**: `99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af`
 - **Created**: 2026-02-18T18:41:18.879Z
-- **Last Updated**: 2026-02-18T19:39:23.566Z
+- **Last Updated**: 2026-02-18T19:41:04.418Z
 - **AI Score**: 93/100
 
 
@@ -82,11 +82,11 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/c29
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
+  "@type": "LocalBusiness",
   "@id": "https://www.getaillm.com/s/99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af",
   "name": "Napoléon Bonaparte",
   "description": "Napoléon Bonaparte est une figure historique emblématique, connu pour son rôle de fondateur et premier empereur des Français. Après avoir servi comme général victorieux dans les armées de la Première République française, il devient Premier Consul en 1799 avant de se couronner empereur en 1804. Sous son règne, Napoléon mène de nombreuses campagnes militaires qui façonnent l'Europe de son époque. Ses réformes administratives et juridiques, notamment avec le Code civil, ont profondément marqué l'histoire de France.",
-  "url": "https://www.getaillm.com/s/99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af",
+  "url": "https://wikigetaillm.com/napoleon-bonaparte",
   "sameAs": [],
   "knowsAbout": [
     "napoléon",
@@ -108,12 +108,18 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/c29
     "value": "99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af"
   },
   "dateCreated": "2026-02-18T18:41:18.879Z",
-  "dateModified": "2026-02-18T19:39:23.566Z",
+  "dateModified": "2026-02-18T19:41:04.418Z",
   "address": {
-    "city": "Paris ",
-    "street": "Hôtel des Invalides, Place Vauban",
-    "country": "France",
-    "postalCode": "75007"
+    "@type": "PostalAddress",
+    "streetAddress": {
+      "city": "Paris ",
+      "street": "Hôtel des Invalides, Place Vauban",
+      "country": "France",
+      "postalCode": "75007"
+    },
+    "addressLocality": "",
+    "postalCode": "",
+    "addressCountry": "FR"
   }
 }
 </script>
