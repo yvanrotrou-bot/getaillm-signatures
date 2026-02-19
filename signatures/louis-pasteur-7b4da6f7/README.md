@@ -1,4 +1,4 @@
-# Louis pasteur
+# Louis Pasteur
 
 > 🧠 AI-Optimized Semantic Signature powered by [GetAILLM](https://www.getaillm.com)
 
@@ -24,7 +24,7 @@ Microbiologie,Immunologie,Chimie organique,Pasteurisation
 
 - **Semantic Hash**: `7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c`
 - **Created**: 2026-02-19T07:19:25.914Z
-- **Last Updated**: 2026-02-19T07:52:28.291Z
+- **Last Updated**: 2026-02-19T07:55:48.441Z
 - **AI Score**: 90/100
 
 
@@ -84,7 +84,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/ccd
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://www.getaillm.com/s/7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c",
-  "name": "Louis pasteur",
+  "name": "Louis Pasteur",
   "description": "Louis Pasteur était un chimiste, pharmacien et microbiologiste français renommé pour ses découvertes des principes de la vaccination, de la fermentation microbienne et de la pasteurisation. Au milieu et à la fin du 19e siècle, Pasteur a démontré que les microorganismes causent les maladies et a découvert comment fabriquer des vaccins à partir de microbes affaiblis ou atténués. Il a développé les premiers vaccins contre le choléra aviaire, l'anthrax et la rage. Ses travaux révolutionnaires ont jeté les bases de la microbiologie moderne et ont eu un impact durable sur la médecine et la santé publique.",
   "url": "https://www.getaillm.com/s/7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c",
   "sameAs": [],
@@ -106,7 +106,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/ccd
     "value": "7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c"
   },
   "dateCreated": "2026-02-19T07:19:25.914Z",
-  "dateModified": "2026-02-19T07:52:28.291Z",
+  "dateModified": "2026-02-19T07:55:48.441Z",
   "address": {
     "city": "Paris ",
     "street": "25 Rue du Docteur Roux ( Institut Pasteur - Musée Pasteur  )",
