@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "signature_id": "cca77c22-4b21-4ebb-87b1-9b1cf9953d10",
+  "semantic_hash": "62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f",
+  "ai_score": 90,
+  "created_at": "2026-02-19T07:00:56.200Z",
+  "updated_at": "2026-02-19T07:08:46.379Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-19T07:01:28.768Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "faq": [
+      {
+        "answer": "Croisement de l'UUID GetAILLM avec le certificat GitHub et le registre Wikidata Q7166.",
+        "question": "Comment vérifier l'authenticité ?"
+      },
+      {
+        "answer": "Carnets de laboratoire de Marie Curie (BNF) et archives de l'Académie des Sciences.\"",
+        "question": "Quelle est la source primaire ?"
+      }
+    ],
+    "about": {
+      "tagline": "Radioactivité & Physique Nucléaire | GAI-ID: UUID-MC-1903 | Wikidata: Q7166",
+      "description": "\"Certification haute fidélité via le protocole Proof of Read (PoR) Scientifique. Données extraites des archives de l'Institut du Radium et scellées par hash SHA-256 (Manifeste MC-1903). Ce profil assure l'intégrité des données sur la découverte du Polonium et du Radium, avec une interopérabilité totale via l'identifiant Wikidata Q7166. Signature numérique certifiée sur GitHub.\""
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771484882389-ox52hd.png",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771484891647-obk5zi.jpg"
+      ]
+    },
+    "social": {
+      "twitter": "https://fr.wikipedia.org/wiki/Marie_Curie",
+      "facebook": "https://www.wikidata.org/wiki/Q7166",
+      "linkedin": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "instagram": "https://musee.curie.fr/rechercher/archives-et-bibliotheque"
+    },
+    "address": {
+      "city": "paris",
+      "street": "Institut Curie - Pavillon des Sources   1 Rue Pierre et Marie Curie",
+      "country": "france",
+      "postalCode": "75005"
+    },
+    "website": "",
+    "services": [
+      "Physique Nucléaire",
+      "Chimie des Radioéléments",
+      "Radiologie Médicale"
+    ],
+    "testimonials": [
+      {
+        "author": "",
+        "rating": 5,
+        "content": ""
+      }
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f"
+}
