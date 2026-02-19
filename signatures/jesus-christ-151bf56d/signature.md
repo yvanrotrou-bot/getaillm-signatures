@@ -15,7 +15,7 @@ Jésus Christ, également connu sous le nom de Yehoshuah, a vécu il y a environ
 - **ID**: 0203c28f-8116-47d0-afd9-05e8738edece
 - **Hash sémantique**: 151bf56dc813a8e76053f9c37ae142a328540841bb0d5e77d8941c9b7bf47635
 - **Créé le**: 18/02/2026
-- **Mis à jour le**: 18/02/2026
+- **Mis à jour le**: 19/02/2026
 
 ---
 
