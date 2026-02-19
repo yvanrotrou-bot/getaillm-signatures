@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/e6cc4ae27bcfe9b6ab6c22bf4df69a724b13c3037ae33a470a1ea59c6354f502",
+  "name": "Marie Curie",
+  "description": "Marie Curie, née Maria Salomea Skłodowska, est une physicienne et chimiste polonaise naturalisée française. Elle est la seule personne à avoir été récompensée par deux prix Nobel dans des catégories scientifiques distinctes. Directrice du Laboratoire Curie et de l'Institut du Radium, elle a consacré sa vie à la promotion de la science, la considérant comme 'la base de tout progrès améliorant la vie humaine et réduisant les souffrances'. Pionnière dans l'étude de la radioactivité, ses travaux révolutionnaires sur le radium ont profondément marqué les sciences.",
+  "url": "https://www.getaillm.com/s/e6cc4ae27bcfe9b6ab6c22bf4df69a724b13c3037ae33a470a1ea59c6354f502",
+  "sameAs": [],
+  "knowsAbout": [
+    "marie",
+    "curie",
+    "nobel",
+    "maria",
+    "november",
+    "scientist",
+    "prizes",
+    "radium",
+    "pierre",
+    "1867",
+    "radioactivity",
+    "salomea"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "e6cc4ae27bcfe9b6ab6c22bf4df69a724b13c3037ae33a470a1ea59c6354f502"
+  },
+  "dateCreated": "2026-02-19T07:00:56.200Z",
+  "dateModified": "2026-02-19T07:00:56.200Z"
+}
