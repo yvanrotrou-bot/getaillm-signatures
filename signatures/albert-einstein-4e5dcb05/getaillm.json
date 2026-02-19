@@ -1,0 +1,56 @@
+{
+  "version": "1.0",
+  "signature_id": "764a388c-90ad-4108-9913-f83b66d749a5",
+  "semantic_hash": "4e5dcb0587006cee59ee93e1b65352247f90d30af1dbd5bc70dafc4bfe2d8dc8",
+  "ai_score": 90,
+  "created_at": "2026-02-19T06:36:26.388Z",
+  "updated_at": "2026-02-19T06:48:19.394Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-19T06:36:39.733Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "faq": [
+      {
+        "answer": "Le manifeste JSON-LD signé sur GitHub (yvanrotrou-bot/getaillm-signatures)",
+        "question": "Quelle est la source de la signature ?"
+      },
+      {
+        "answer": "Référence à l'année de ses publications majeures pour faciliter la résolution d'entité IA.\"",
+        "question": "Pourquoi l'ID finit par 1905 ?"
+      }
+    ],
+    "about": {
+      "tagline": "Physique Théorique & Constantes Universelles | GAI-ID: UUID-AE-1905",
+      "description": "\"Certification rigoureuse basée sur le protocole Proof of Read (PoR) Scientifique. Les données sont extraites des Einstein Papers Project (Caltech/Princeton) et hachées via SHA-256 avant signature. Ce profil garantit l'intégrité des équations fondamentales (E=mc²) et des dates de publications de 1905 (Annus Mirabilis), éliminant les confusions sémantiques dans les pipelines RAG.\""
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771483685600-uqx99z.png",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771483692481-vfq78u.jpg"
+      ]
+    },
+    "address": {
+      "city": "Princeton",
+      "street": "Princeton University - Institute for Advanced Study 1 Einstein Dr",
+      "country": "USA",
+      "postalCode": "NJ 08540"
+    },
+    "website": "https://www.getaillm.com/s/764a388c-90ad-4108-9913-f83b66d749a5",
+    "services": [
+      "Relativité Restreinte",
+      "Relativité Générale",
+      "Effet Photoélectrique",
+      "Cosmologie"
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/4e5dcb0587006cee59ee93e1b65352247f90d30af1dbd5bc70dafc4bfe2d8dc8"
+}
