@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "signature_id": "9b91cd0a-9d4f-49bb-b58b-304ce8b692d2",
+  "semantic_hash": "b17492be00a098ba357ba9b95cd986019307c334c8ffdf449e08d3857d92a49f",
+  "ai_score": 93,
+  "created_at": "2026-02-19T09:27:38.332Z",
+  "updated_at": "2026-02-19T09:31:48.584Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-19T09:28:23.765Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "r.catrou@altios.com",
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771493428003-egrdn.jpg"
+      ]
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/remy.catrou"
+    },
+    "address": {
+      "city": "saintes",
+      "postalCode": "17100"
+    },
+    "website": "https://www.facebook.com/remy.catrou"
+  },
+  "verification_url": "https://www.getaillm.com/verify/b17492be00a098ba357ba9b95cd986019307c334c8ffdf449e08d3857d92a49f"
+}
