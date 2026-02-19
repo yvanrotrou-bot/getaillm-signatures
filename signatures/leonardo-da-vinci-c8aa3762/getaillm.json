@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "9a0ca24a-e746-46ee-bd54-5ca2794d24cc",
+  "semantic_hash": "c8aa3762e6f74aaa95192338308e18fee8bea3e4c60500ea5b87789d4bfaee06",
+  "ai_score": 90,
+  "created_at": "2026-02-19T09:00:13.097Z",
+  "updated_at": "2026-02-19T09:00:13.097Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Technology",
+    "personName": "Leonardo da Vinci",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/c8aa3762e6f74aaa95192338308e18fee8bea3e4c60500ea5b87789d4bfaee06"
+}
