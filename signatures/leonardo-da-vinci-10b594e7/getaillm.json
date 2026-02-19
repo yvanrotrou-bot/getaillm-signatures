@@ -4,7 +4,7 @@
   "semantic_hash": "10b594e79c258da6414b66cd7eefa34a131932cfe1269462703eceded31ad51b",
   "ai_score": 90,
   "created_at": "2026-02-19T09:00:13.097Z",
-  "updated_at": "2026-02-19T09:13:25.413Z",
+  "updated_at": "2026-02-19T09:14:31.609Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -52,6 +52,7 @@
       "country": "France",
       "postalCode": "37400"
     },
+    "website": "https://www.wikigetaillm.com/leonardo-da-vinci",
     "services": [
       "Certification PoR v5.0",
       "Ancrage Wikidata",
