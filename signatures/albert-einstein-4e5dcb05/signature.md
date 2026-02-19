@@ -5,7 +5,7 @@ Albert Einstein est un physicien théoricien allemand reconnu mondialement pour 
 
 ## Contact
 
-🌐 https://www.getaillm.com/s/764a388c-90ad-4108-9913-f83b66d749a5 • 📍 [object Object]
+🌐 https://www.wikigetaillm.com/albert-einstein • 📍 [object Object]
 
 
 ---
