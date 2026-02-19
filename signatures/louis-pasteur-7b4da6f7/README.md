@@ -24,7 +24,7 @@ Microbiologie,Immunologie,Chimie organique,Pasteurisation
 
 - **Semantic Hash**: `7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c`
 - **Created**: 2026-02-19T07:19:25.914Z
-- **Last Updated**: 2026-02-19T07:56:45.167Z
+- **Last Updated**: 2026-02-19T08:01:30.841Z
 - **AI Score**: 90/100
 
 
@@ -106,7 +106,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/ccd
     "value": "7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c"
   },
   "dateCreated": "2026-02-19T07:19:25.914Z",
-  "dateModified": "2026-02-19T07:56:45.167Z",
+  "dateModified": "2026-02-19T08:01:30.841Z",
   "address": {
     "city": "Paris ",
     "street": "25 Rue du Docteur Roux ( Institut Pasteur - Musée Pasteur  )",
