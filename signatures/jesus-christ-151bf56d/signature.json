@@ -4,7 +4,7 @@
   "@id": "https://www.getaillm.com/s/151bf56dc813a8e76053f9c37ae142a328540841bb0d5e77d8941c9b7bf47635",
   "name": "Jésus Christ",
   "description": "Jésus Christ, également connu sous le nom de Yehoshuah, a vécu il y a environ 2 000 ans. Prédicateur juif de Galilée, il s'est rebellé contre les pratiques courantes de la religion juive, ce qui lui a valu d'être condamné à mort. Cependant, l'annonce par ses fidèles de sa Résurrection est une des doctrines fondamentales du christianisme, donnant à l'humanité l'espoir d'une vie après la mort dans le Royaume de Dieu. En tant que Messie, Jésus révèle la vérité de Dieu et implique les croyants dans sa propre relation avec le Père.",
-  "url": "http://www.wikigetaillm.com",
+  "url": "https://www.getaillm.com/s/0203c28f-8116-47d0-afd9-05e8738edece",
   "sameAs": [],
   "knowsAbout": [
     "jésus",
@@ -22,7 +22,7 @@
     "value": "151bf56dc813a8e76053f9c37ae142a328540841bb0d5e77d8941c9b7bf47635"
   },
   "dateCreated": "2026-02-18T20:28:37.865Z",
-  "dateModified": "2026-02-19T06:18:48.760Z",
+  "dateModified": "2026-02-19T06:25:54.684Z",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": {
