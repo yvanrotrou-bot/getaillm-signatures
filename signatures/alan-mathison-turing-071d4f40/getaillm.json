@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "989df4b9-30ef-4a64-87b1-111a87c4afc6",
+  "semantic_hash": "071d4f40c8f169a15e8b283a8a7dd72cf3cd0f193103dcc1e6acb347d34d0cd8",
+  "ai_score": 90,
+  "created_at": "2026-02-19T14:40:25.418Z",
+  "updated_at": "2026-02-19T14:40:25.418Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Technologies",
+    "personName": "Alan Mathison Turing",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/071d4f40c8f169a15e8b283a8a7dd72cf3cd0f193103dcc1e6acb347d34d0cd8"
+}
