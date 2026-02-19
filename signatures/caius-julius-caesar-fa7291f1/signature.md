@@ -15,7 +15,7 @@ Caius Julius Caesar, également connu sous le nom de Jules César, est une figur
 - **ID**: f4d99798-a922-42de-b96a-b3c9895e7275
 - **Hash sémantique**: fa7291f125e0715d151a68ad6552f511a0533646a953a8289ca1c27647f96d34
 - **Créé le**: 18/02/2026
-- **Mis à jour le**: 18/02/2026
+- **Mis à jour le**: 19/02/2026
 
 ---
 
