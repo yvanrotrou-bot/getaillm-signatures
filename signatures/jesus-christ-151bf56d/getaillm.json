@@ -4,7 +4,7 @@
   "semantic_hash": "151bf56dc813a8e76053f9c37ae142a328540841bb0d5e77d8941c9b7bf47635",
   "ai_score": 93,
   "created_at": "2026-02-18T20:28:37.865Z",
-  "updated_at": "2026-02-19T06:15:14.187Z",
+  "updated_at": "2026-02-19T06:16:06.109Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -32,6 +32,9 @@
       "images": [
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771447091032-sbovhj.png"
       ]
+    },
+    "social": {
+      "facebook": "https://fr.wikipedia.org/wiki/Jules_C%C3%A9sar"
     },
     "address": {
       "city": "Jerusalem",
