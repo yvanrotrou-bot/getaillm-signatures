@@ -11,7 +11,7 @@ Leonardo da Vinci was a true Renaissance polymath, excelling in a wide range of 
 
 
 
-
+- **Site web**: [https://www.wikigetaillm.com/leonardo-da-vinci](https://www.wikigetaillm.com/leonardo-da-vinci)
 - **Adresse**: [object Object]
 
 
@@ -24,7 +24,7 @@ Certification PoR v5.0,Ancrage Wikidata,Extraction Sémantique BNF,Intégrité C
 
 - **Semantic Hash**: `10b594e79c258da6414b66cd7eefa34a131932cfe1269462703eceded31ad51b`
 - **Created**: 2026-02-19T09:00:13.097Z
-- **Last Updated**: 2026-02-19T09:13:25.413Z
+- **Last Updated**: 2026-02-19T09:14:31.609Z
 - **AI Score**: 90/100
 
 
@@ -110,7 +110,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/9a0
     "value": "10b594e79c258da6414b66cd7eefa34a131932cfe1269462703eceded31ad51b"
   },
   "dateCreated": "2026-02-19T09:00:13.097Z",
-  "dateModified": "2026-02-19T09:13:25.413Z",
+  "dateModified": "2026-02-19T09:14:31.609Z",
   "address": {
     "city": "Amboise",
     "street": "2 place du Château (Clos Lucé)",
