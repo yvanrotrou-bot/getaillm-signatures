@@ -5,7 +5,7 @@ Napoléon Bonaparte est une figure historique emblématique, connu pour son rôl
 
 ## Contact
 
-🌐 https://wikigetaillm.com/napoleon-bonaparte • 📍 [object Object]
+🌐 https://www.getaillm.com/s/c2953474-765d-4a6c-ba07-a650b7f8e9d4 • 📍 [object Object]
 
 
 ---
@@ -15,7 +15,7 @@ Napoléon Bonaparte est une figure historique emblématique, connu pour son rôl
 - **ID**: c2953474-765d-4a6c-ba07-a650b7f8e9d4
 - **Hash sémantique**: 99fa6cc61cfe7af0be18e67841760153d90d08b154303f871ba1627ca28f56af
 - **Créé le**: 18/02/2026
-- **Mis à jour le**: 18/02/2026
+- **Mis à jour le**: 19/02/2026
 
 ---
 
