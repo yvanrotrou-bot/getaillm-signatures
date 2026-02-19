@@ -5,7 +5,7 @@ Leonardo da Vinci was a true Renaissance polymath, excelling in a wide range of 
 
 ## Contact
 
-📍 [object Object]
+🌐 https://www.wikigetaillm.com/leonardo-da-vinci • 📍 [object Object]
 
 
 ---
