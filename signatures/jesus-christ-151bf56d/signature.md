@@ -5,7 +5,7 @@ Jésus Christ, également connu sous le nom de Yehoshuah, a vécu il y a environ
 
 ## Contact
 
-🌐 http://www.wikigetaillm.com • 📍 [object Object]
+🌐 https://www.getaillm.com/s/0203c28f-8116-47d0-afd9-05e8738edece • 📍 [object Object]
 
 
 ---
