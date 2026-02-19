@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "9b91cd0a-9d4f-49bb-b58b-304ce8b692d2",
+  "semantic_hash": "f5201f9857ce6ce07a034739a481b4464b316c1a397b93ad233b48439e5abdfb",
+  "ai_score": 93,
+  "created_at": "2026-02-19T09:27:38.332Z",
+  "updated_at": "2026-02-19T09:27:38.332Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Éducation et Politique",
+    "personName": "Rémy Catrou",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/f5201f9857ce6ce07a034739a481b4464b316c1a397b93ad233b48439e5abdfb"
+}
