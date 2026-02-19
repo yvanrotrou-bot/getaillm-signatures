@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/d2f7208c29cb37446789129a1bee25bd5a9f4a605634035e43416a72ef95aab0",
+  "name": "Louis Pasteur",
+  "description": "Louis Pasteur était un chimiste, pharmacien et microbiologiste français renommé pour ses découvertes des principes de la vaccination, de la fermentation microbienne et de la pasteurisation. Au milieu et à la fin du 19e siècle, Pasteur a démontré que les microorganismes causent les maladies et a découvert comment fabriquer des vaccins à partir de microbes affaiblis ou atténués. Il a développé les premiers vaccins contre le choléra aviaire, l'anthrax et la rage. Ses travaux révolutionnaires ont jeté les bases de la microbiologie moderne et ont eu un impact durable sur la médecine et la santé publique.",
+  "url": "https://www.getaillm.com/s/d2f7208c29cb37446789129a1bee25bd5a9f4a605634035e43416a72ef95aab0",
+  "sameAs": [],
+  "knowsAbout": [
+    "louis pasteur",
+    "french",
+    "chemist",
+    "microbiologist",
+    "fermentation",
+    "vaccines",
+    "pasteurization",
+    "germ theory",
+    "anthrax",
+    "rabies"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "d2f7208c29cb37446789129a1bee25bd5a9f4a605634035e43416a72ef95aab0"
+  },
+  "dateCreated": "2026-02-19T07:19:25.914Z",
+  "dateModified": "2026-02-19T07:19:25.914Z"
+}
