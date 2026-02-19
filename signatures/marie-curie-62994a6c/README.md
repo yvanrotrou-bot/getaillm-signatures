@@ -11,7 +11,7 @@ Marie Curie, née Maria Salomea Skłodowska, est une physicienne et chimiste pol
 
 
 
-
+- **Site web**: [https://www.wikigetaillm.com/marie-curie-1](https://www.wikigetaillm.com/marie-curie-1)
 - **Adresse**: [object Object]
 
 
@@ -24,7 +24,7 @@ Physique Nucléaire,Chimie des Radioéléments,Radiologie Médicale
 
 - **Semantic Hash**: `62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f`
 - **Created**: 2026-02-19T07:00:56.200Z
-- **Last Updated**: 2026-02-19T07:08:46.379Z
+- **Last Updated**: 2026-02-19T07:09:28.641Z
 - **AI Score**: 90/100
 
 
@@ -110,7 +110,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/cca
     "value": "62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f"
   },
   "dateCreated": "2026-02-19T07:00:56.200Z",
-  "dateModified": "2026-02-19T07:08:46.379Z",
+  "dateModified": "2026-02-19T07:09:28.641Z",
   "address": {
     "city": "paris",
     "street": "Institut Curie - Pavillon des Sources   1 Rue Pierre et Marie Curie",
