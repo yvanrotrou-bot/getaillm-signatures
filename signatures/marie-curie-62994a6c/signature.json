@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f",
+  "name": "Marie Curie",
+  "description": "Marie Curie, née Maria Salomea Skłodowska, est une physicienne et chimiste polonaise naturalisée française. Elle est la seule personne à avoir été récompensée par deux prix Nobel dans des catégories scientifiques distinctes. Directrice du Laboratoire Curie et de l'Institut du Radium, elle a consacré sa vie à la promotion de la science, la considérant comme 'la base de tout progrès améliorant la vie humaine et réduisant les souffrances'. Pionnière dans l'étude de la radioactivité, ses travaux révolutionnaires sur le radium ont profondément marqué les sciences.",
+  "url": "https://www.getaillm.com/s/62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f",
+  "sameAs": [],
+  "knowsAbout": [
+    "marie",
+    "curie",
+    "nobel",
+    "maria",
+    "november",
+    "scientist",
+    "prizes",
+    "radium",
+    "pierre",
+    "1867",
+    "radioactivity",
+    "salomea"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f"
+  },
+  "dateCreated": "2026-02-19T07:00:56.200Z",
+  "dateModified": "2026-02-19T07:08:46.379Z",
+  "address": {
+    "city": "paris",
+    "street": "Institut Curie - Pavillon des Sources   1 Rue Pierre et Marie Curie",
+    "country": "france",
+    "postalCode": "75005"
+  }
+}
