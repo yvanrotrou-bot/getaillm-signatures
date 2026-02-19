@@ -5,7 +5,7 @@ Marie Curie, née Maria Salomea Skłodowska, est une physicienne et chimiste pol
 
 ## Contact
 
-📍 [object Object]
+🌐 https://www.wikigetaillm.com/marie-curie-1 • 📍 [object Object]
 
 
 ---
