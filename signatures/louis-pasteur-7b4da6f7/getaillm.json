@@ -4,7 +4,7 @@
   "semantic_hash": "7b4da6f750788278881d1d2c69ea2867546929beb34a6a7cff1edba7daf3a92c",
   "ai_score": 90,
   "created_at": "2026-02-19T07:19:25.914Z",
-  "updated_at": "2026-02-19T07:29:19.841Z",
+  "updated_at": "2026-02-19T07:30:48.276Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -44,7 +44,9 @@
       ]
     },
     "social": {
+      "twitter": "https://github.com/yvanrotrou-bot/getaillm-signatures/tree/main/signatures/louis-pasteur-7b4da6f7",
       "facebook": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc10216s",
+      "linkedin": "https://fr.wikipedia.org/wiki/Louis_Pasteur",
       "instagram": "https://www.pasteur.fr/fr/institut-pasteur/notre-histoire"
     },
     "address": {
