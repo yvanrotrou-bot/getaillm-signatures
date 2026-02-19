@@ -11,7 +11,7 @@ Albert Einstein est un physicien théoricien allemand reconnu mondialement pour 
 
 
 
-- **Site web**: [https://www.getaillm.com/s/764a388c-90ad-4108-9913-f83b66d749a5](https://www.getaillm.com/s/764a388c-90ad-4108-9913-f83b66d749a5)
+- **Site web**: [https://www.wikigetaillm.com/albert-einstein](https://www.wikigetaillm.com/albert-einstein)
 - **Adresse**: [object Object]
 
 
@@ -24,7 +24,7 @@ Relativité Restreinte,Relativité Générale,Effet Photoélectrique,Cosmologie
 
 - **Semantic Hash**: `4e5dcb0587006cee59ee93e1b65352247f90d30af1dbd5bc70dafc4bfe2d8dc8`
 - **Created**: 2026-02-19T06:36:26.388Z
-- **Last Updated**: 2026-02-19T06:48:19.394Z
+- **Last Updated**: 2026-02-19T06:53:32.336Z
 - **AI Score**: 90/100
 
 
@@ -110,7 +110,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/764
     "value": "4e5dcb0587006cee59ee93e1b65352247f90d30af1dbd5bc70dafc4bfe2d8dc8"
   },
   "dateCreated": "2026-02-19T06:36:26.388Z",
-  "dateModified": "2026-02-19T06:48:19.394Z",
+  "dateModified": "2026-02-19T06:53:32.336Z",
   "address": {
     "city": "Princeton",
     "street": "Princeton University - Institute for Advanced Study 1 Einstein Dr",
