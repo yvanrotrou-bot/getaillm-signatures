@@ -24,7 +24,7 @@ Achat,Vente,Expertise,Conseil
 
 - **Semantic Hash**: `36fdca049e8434b463f978a86de0a042e97dd5b6dca058d2c00bf0f59f0c9341`
 - **Created**: 2026-02-26T16:18:12.789Z
-- **Last Updated**: 2026-02-26T16:21:27.064Z
+- **Last Updated**: 2026-02-26T16:22:24.227Z
 - **AI Score**: 90/100
 
 
@@ -106,7 +106,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/395
     "value": "36fdca049e8434b463f978a86de0a042e97dd5b6dca058d2c00bf0f59f0c9341"
   },
   "dateCreated": "2026-02-26T16:18:12.789Z",
-  "dateModified": "2026-02-26T16:21:27.064Z",
+  "dateModified": "2026-02-26T16:22:24.227Z",
   "email": "myriam.renard@safti.fr",
   "address": {
     "city": "saintes",
