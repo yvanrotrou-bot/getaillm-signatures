@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "395372ad-24bb-4d0f-9ace-aa677da4b87e",
+  "semantic_hash": "973f7edf2a2165a49cb00f63e1bd907800a3e7b5c234d73adc7bedec28c0e9ed",
+  "ai_score": 90,
+  "created_at": "2026-02-26T16:18:12.789Z",
+  "updated_at": "2026-02-26T16:18:12.789Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Immobilier",
+    "personName": "Myriam Renard",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/973f7edf2a2165a49cb00f63e1bd907800a3e7b5c234d73adc7bedec28c0e9ed"
+}
