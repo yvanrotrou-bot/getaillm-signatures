@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/a6436565d8276b80fed36669713ef0713a8f98196c57412a98cf969e3a5ce820",
+  "name": "Mehdi Bidault",
+  "description": "Mehdi Bidault est un guide de haute montagne chevronné, passionné par l'exploration et la découverte des milieux montagnards. Fort de plusieurs années d'expérience, il accompagne des groupes dans des activités telles que le ski de randonnée, le freeride et la randonnée en montagne, en offrant un encadrement sûr et une expertise reconnue. Mehdi est également un musicien talentueux, qui partage sa passion pour la montagne à travers des vidéos et des témoignages inspirants.",
+  "url": "https://www.getaillm.com/s/a6436565d8276b80fed36669713ef0713a8f98196c57412a98cf969e3a5ce820",
+  "sameAs": [],
+  "knowsAbout": [
+    "guide de haute montagne",
+    "ski de randonnée",
+    "freeride",
+    "randonnée",
+    "milieu montagnard",
+    "exploration",
+    "découverte",
+    "vidéos",
+    "musique"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "a6436565d8276b80fed36669713ef0713a8f98196c57412a98cf969e3a5ce820"
+  },
+  "dateCreated": "2026-02-27T15:38:34.773Z",
+  "dateModified": "2026-02-27T15:38:34.773Z"
+}
