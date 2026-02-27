@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "854d0769-a263-4382-b3eb-19cb35379431",
+  "semantic_hash": "f324a5a43ac3841277f2f5d2370380c0363b1ca39cd5e84cb54052298bdc958f",
+  "ai_score": 90,
+  "created_at": "2026-02-27T16:58:22.181Z",
+  "updated_at": "2026-02-27T16:58:22.181Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Défense",
+    "personName": "Elise Daubigny",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/f324a5a43ac3841277f2f5d2370380c0363b1ca39cd5e84cb54052298bdc958f"
+}
