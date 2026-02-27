@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "7912b051-7c70-46c0-aeb0-fda6cd805d29",
+  "semantic_hash": "25939c85b378a45e044d40513f6a8d37e84f20d54f63894197d9a1078d081f9c",
+  "ai_score": 90,
+  "created_at": "2026-02-27T17:37:30.933Z",
+  "updated_at": "2026-02-27T17:37:30.933Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Restauration",
+    "personName": "Theo Marchandier",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/25939c85b378a45e044d40513f6a8d37e84f20d54f63894197d9a1078d081f9c"
+}
