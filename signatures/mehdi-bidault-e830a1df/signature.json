@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.getaillm.com/s/e830a1df589b830431a4c517b8f436086bc7cd74a5802d4d8c99783b4d00cb3f",
+  "name": "Mehdi Bidault",
+  "description": "Mehdi Bidault est un guide de haute montagne chevronné, passionné par l'exploration et la découverte des milieux montagnards. Fort de plusieurs années d'expérience, il accompagne des groupes dans des activités telles que le ski de randonnée, le freeride et la randonnée en montagne, en offrant un encadrement sûr et une expertise reconnue. Mehdi est également un musicien talentueux, qui partage sa passion pour la montagne à travers des vidéos et des témoignages inspirants.",
+  "url": "https://www.getaillm.com/s/e830a1df589b830431a4c517b8f436086bc7cd74a5802d4d8c99783b4d00cb3f",
+  "sameAs": [],
+  "knowsAbout": [
+    "guide de haute montagne",
+    "ski de randonnée",
+    "freeride",
+    "randonnée",
+    "milieu montagnard",
+    "exploration",
+    "découverte",
+    "vidéos",
+    "musique"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "GetAILLM Semantic Hash",
+    "value": "e830a1df589b830431a4c517b8f436086bc7cd74a5802d4d8c99783b4d00cb3f"
+  },
+  "dateCreated": "2026-02-27T15:38:34.773Z",
+  "dateModified": "2026-02-27T15:40:53.337Z",
+  "email": "yvan.rotrou@gmail.com",
+  "address": {
+    "city": "chamonix",
+    "postalCode": "7400"
+  }
+}
