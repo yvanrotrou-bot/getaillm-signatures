@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "95eb21dd-cacf-4c1f-b8f7-d11beed12f99",
+  "semantic_hash": "a0a93d01ad6e2f27ea810179416abc959027ee3cb2d39859c67e9b4937214e11",
+  "ai_score": 93,
+  "created_at": "2026-02-27T17:42:42.889Z",
+  "updated_at": "2026-02-27T17:42:42.889Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Technologie",
+    "personName": "Hector Plessier",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/a0a93d01ad6e2f27ea810179416abc959027ee3cb2d39859c67e9b4937214e11"
+}
