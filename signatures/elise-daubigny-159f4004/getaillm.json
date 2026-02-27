@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "signature_id": "854d0769-a263-4382-b3eb-19cb35379431",
+  "semantic_hash": "159f4004c0eff5094f82c3b8c0070185d18529a2d0bff80127c5ea76d0ce456f",
+  "ai_score": 90,
+  "created_at": "2026-02-27T16:58:22.181Z",
+  "updated_at": "2026-02-27T17:35:49.586Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-27T17:34:20.150Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "elise.daubigny@protonmail.com",
+    "phone": "05 46 74 69 65",
+    "address": {
+      "city": "brest",
+      "street": "brest"
+    }
+  },
+  "verification_url": "https://www.getaillm.com/verify/159f4004c0eff5094f82c3b8c0070185d18529a2d0bff80127c5ea76d0ce456f"
+}
