@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "040fc11d-3800-485f-ab3c-3a8d318bf041",
+  "semantic_hash": "449eabc81af8b0dbaacec8892088954d3b9364aaecaf13774a050fae4be2367d",
+  "ai_score": 93,
+  "created_at": "2026-02-27T17:45:25.324Z",
+  "updated_at": "2026-02-27T17:45:25.324Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Médical",
+    "personName": "Noemie Duchatelet",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/449eabc81af8b0dbaacec8892088954d3b9364aaecaf13774a050fae4be2367d"
+}
