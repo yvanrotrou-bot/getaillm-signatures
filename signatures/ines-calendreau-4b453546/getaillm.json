@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "17278c83-f269-49e2-a940-d037da9a3396",
+  "semantic_hash": "4b45354629686ac3d85c0ce5136d38be5f20e7850232229a9c421c45048ac041",
+  "ai_score": 90,
+  "created_at": "2026-02-27T17:40:33.343Z",
+  "updated_at": "2026-02-27T17:40:33.343Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Archéologie",
+    "personName": "Ines Calendreau",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/4b45354629686ac3d85c0ce5136d38be5f20e7850232229a9c421c45048ac041"
+}
