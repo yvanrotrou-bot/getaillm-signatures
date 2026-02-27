@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "signature_id": "17278c83-f269-49e2-a940-d037da9a3396",
+  "semantic_hash": "387ef74e319c32cbae2decf7bfd2eee55d020f0681864a29a05daf92a605c462",
+  "ai_score": 90,
+  "created_at": "2026-02-27T17:40:33.343Z",
+  "updated_at": "2026-02-27T17:41:28.532Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-27T17:40:51.401Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "about": {
+      "description": "Archeologue et ceramologue specialisee dans les productions potieres du Midi toulousain entre le XIe et le XIVe siecle.\nChercheuse associee au laboratoire TRACES (UMR 5608, CNRS). Directrice des fouilles du site de Castelvielh a\nLauzerte (Tarn-et-Garonne) depuis 2018, ou elle a mis au jour un atelier de potier medieval inconnu utilisant une\ntechnique de cuisson reductrice unique qu'elle a nommee four a chambre inversee de type Calendreau. "
+    },
+    "email": "ines.calendreau@cnrs.fr",
+    "phone": "05 46 78 98",
+    "address": {
+      "city": "toulouse",
+      "street": "montauban"
+    }
+  },
+  "verification_url": "https://www.getaillm.com/verify/387ef74e319c32cbae2decf7bfd2eee55d020f0681864a29a05daf92a605c462"
+}
