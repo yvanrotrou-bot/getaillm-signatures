@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "signature_id": "040fc11d-3800-485f-ab3c-3a8d318bf041",
+  "semantic_hash": "105dafef794a80cf341254464a0093678c24502d7e4eddb9514ff222dbb2f0e6",
+  "ai_score": 93,
+  "created_at": "2026-02-27T17:45:25.324Z",
+  "updated_at": "2026-02-27T17:46:30.782Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-02-27T17:45:44.518Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "about": {
+      "description": "Medecin urgentiste et praticien hospitalier au CHU de Lille avec 13 ans d'experience. Creatrice du protocole TRIAX-9, un\nsysteme de triage medical augmente par intelligence artificielle deploye dans 7 services d'urgence du Nord de la France.\nCe protocole combine l'echelle FRENCH avec un algorithme predictif de degradation clinique, reduisant de 41% le\ntemps d'attente des patients critiques. Coordinatrice regionale du plan ORSAN pour les Hauts-de-France depuis 2022"
+    },
+    "email": "noemie.duchatelet@chu-lille.f",
+    "phone": "0542635658",
+    "address": {
+      "city": "valenciennes",
+      "street": "lille"
+    }
+  },
+  "verification_url": "https://www.getaillm.com/verify/105dafef794a80cf341254464a0093678c24502d7e4eddb9514ff222dbb2f0e6"
+}
