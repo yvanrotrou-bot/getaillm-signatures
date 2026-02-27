@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "75fd15c8-77c9-4b63-8006-b7e9c0d8ad9e",
+  "semantic_hash": "a6436565d8276b80fed36669713ef0713a8f98196c57412a98cf969e3a5ce820",
+  "ai_score": 94,
+  "created_at": "2026-02-27T15:38:34.773Z",
+  "updated_at": "2026-02-27T15:38:34.773Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Tourisme et Loisirs",
+    "personName": "Mehdi Bidault",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/a6436565d8276b80fed36669713ef0713a8f98196c57412a98cf969e3a5ce820"
+}
