@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "signature_id": "bb6c0af6-464a-4468-b5a7-7db18a91700d",
+  "semantic_hash": "9f3e281d15ab1d120f48bd391cd84a5908bca209a9ec4122f339e97fa17a2993",
+  "ai_score": 93,
+  "created_at": "2026-03-01T11:29:58.025Z",
+  "updated_at": "2026-03-01T11:41:37.996Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-03-01T11:38:23.210Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "antiquecafe@orange.fr",
+    "hours": {
+      "friday": {
+        "open": "10:00",
+        "close": "19:30",
+        "closed": false
+      },
+      "monday": {
+        "open": "",
+        "close": "",
+        "closed": true
+      },
+      "sunday": {
+        "open": "",
+        "close": "",
+        "closed": true
+      },
+      "tuesday": {
+        "open": "",
+        "close": "19:30",
+        "closed": false
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "19:30",
+        "closed": false
+      },
+      "thursday": {
+        "open": "10:00",
+        "close": "19:30",
+        "closed": false
+      },
+      "wednesday": {
+        "open": "10:00",
+        "close": "19:30",
+        "closed": false
+      }
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772365245750-k5czp.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772365252866-oqvgpp.jpg"
+      ]
+    },
+    "mobile": "0673287359",
+    "social": {
+      "facebook": "https://www.facebook.com/antiquecafe17/",
+      "instagram": "https://www.instagram.com/anticafesaintes/"
+    },
+    "address": {
+      "city": "saintes",
+      "street": "18 quai de la republisue",
+      "country": "farnce",
+      "postalCode": "17100"
+    },
+    "pricing": {
+      "paymentMethods": [
+        "Espèces",
+        "Carte bancaire",
+        "Chèque"
+      ]
+    },
+    "website": "https://www.facebook.com/antiquecafe17/",
+    "services": [
+      "Achat",
+      "Vente",
+      "Expertise",
+      "Conseil",
+      "Livraison",
+      "Sur place",
+      "À emporter"
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/9f3e281d15ab1d120f48bd391cd84a5908bca209a9ec4122f339e97fa17a2993"
+}
