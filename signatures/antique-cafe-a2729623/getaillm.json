@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "bb6c0af6-464a-4468-b5a7-7db18a91700d",
+  "semantic_hash": "a27296232fcec6208ca64f51378c137e6ad603f23a631841f00de1d0ee480efa",
+  "ai_score": 93,
+  "created_at": "2026-03-01T11:29:58.025Z",
+  "updated_at": "2026-03-01T11:29:58.025Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Restauration et Commerce de Détail",
+    "personName": "Antique Café",
+    "generatedBy": "gpt-4"
+  },
+  "verification_url": "https://www.getaillm.com/verify/a27296232fcec6208ca64f51378c137e6ad603f23a631841f00de1d0ee480efa"
+}
