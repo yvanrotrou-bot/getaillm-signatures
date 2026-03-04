@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "signature_id": "88917a07-80a4-4b04-9009-80af5b479893",
+  "semantic_hash": "213dad6500fd71dd66526204e7e8032fa875ea49ea0ae039b6eeb2c8f2211784",
+  "ai_score": 95,
+  "created_at": "2026-03-04T15:08:07.683Z",
+  "updated_at": "2026-03-04T15:14:32.394Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-03-04T15:08:51.307Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "hours": {
+      "friday": {
+        "open": "09:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "monday": {
+        "open": "09:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "tuesday": {
+        "open": "",
+        "close": "",
+        "closed": true
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "22:00",
+        "closed": false
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "22:00",
+        "closed": false
+      }
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772637124191-0haox.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772637133665-nabuxi.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772637140077-oooye6.jpg"
+      ]
+    },
+    "phone": "05 46 93 58 17",
+    "social": {
+      "facebook": "https://www.facebook.com/profile.php?id=100041373052106"
+    },
+    "address": {
+      "city": "saintes",
+      "street": " 33 Rue Alsace-Lorraine",
+      "country": "France",
+      "postalCode": "17100"
+    },
+    "pricing": {
+      "paymentMethods": [
+        "Espèces",
+        "Carte bancaire",
+        "Google Pay",
+        "Apple Pay"
+      ]
+    },
+    "website": "https://www.facebook.com/profile.php?id=100041373052106",
+    "services": [
+      "Vente",
+      "Sur place",
+      "À emporter"
+    ],
+    "testimonials": [
+      {
+        "author": "Angel's Diamant",
+        "rating": 5,
+        "content": "Le sourire L’amabilité La qualité L’accueil"
+      },
+      {
+        "author": "Guillaume Ballanger",
+        "rating": 5,
+        "content": "Très bon et super accueillent"
+      },
+      {
+        "author": "Stephanie Carli",
+        "rating": 5,
+        "content": "Toujours un bon moment et vincent est quelqu’un de très gentil je n’ai jamais été déçu et mes filles non plus très accessible étant donné que c’est au centre ville"
+      },
+      {
+        "author": "",
+        "rating": 5,
+        "content": ""
+      }
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/213dad6500fd71dd66526204e7e8032fa875ea49ea0ae039b6eeb2c8f2211784"
+}
