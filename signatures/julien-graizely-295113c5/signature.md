@@ -15,7 +15,7 @@ Julien Graizely est un artiste peintre et dessinateur français né en 1980 à S
 - **ID**: 8020ccdc-9147-4610-b649-f30d7a33f8ef
 - **Hash sémantique**: 295113c5e283e38a8cffdbc782b7e89eb0294ba79e4d62ddb6ee757054c09e9d
 - **Créé le**: 29/08/2025
-- **Mis à jour le**: 12/09/2025
+- **Mis à jour le**: 05/03/2026
 
 ---
 
