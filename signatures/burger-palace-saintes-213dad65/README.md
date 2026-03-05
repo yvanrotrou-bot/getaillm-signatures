@@ -24,7 +24,7 @@ Vente,Sur place,À emporter
 
 - **Semantic Hash**: `213dad6500fd71dd66526204e7e8032fa875ea49ea0ae039b6eeb2c8f2211784`
 - **Created**: 2026-03-04T15:08:07.683Z
-- **Last Updated**: 2026-03-04T15:14:32.394Z
+- **Last Updated**: 2026-03-05T08:29:49.640Z
 - **AI Score**: 95/100
 
 
@@ -106,7 +106,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/889
     "value": "213dad6500fd71dd66526204e7e8032fa875ea49ea0ae039b6eeb2c8f2211784"
   },
   "dateCreated": "2026-03-04T15:08:07.683Z",
-  "dateModified": "2026-03-04T15:14:32.394Z",
+  "dateModified": "2026-03-05T08:29:49.640Z",
   "telephone": "05 46 93 58 17",
   "address": {
     "city": "saintes",
