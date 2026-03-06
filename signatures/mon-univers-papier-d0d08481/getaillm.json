@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "signature_id": "36dc1944-ff31-461b-88e7-e999f68cfa64",
+  "semantic_hash": "d0d0848159f824ee20e09b165c7db29db344fedd3e96fc717670901f24dedc3c",
+  "ai_score": 95,
+  "created_at": "2026-03-06T14:54:35.818Z",
+  "updated_at": "2026-03-06T15:01:08.452Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-03-06T14:56:18.120Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "email": "monuniverspapier@gmail.com",
+    "hours": {
+      "friday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "monday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "19:00",
+        "closed": false
+      }
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772809102760-3ua6hl.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772809120993-w63x5h.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1772809126598-gml8v.jpg"
+      ]
+    },
+    "mobile": "06 52 40 79 97",
+    "social": {
+      "facebook": "https://www.facebook.com/monuniverspapier.fr",
+      "instagram": "https://www.instagram.com/explore/locations/1023247678/mon-univers-papier-boutique-en-ligne/"
+    },
+    "address": {
+      "city": "les gonds",
+      "street": "25 rue Maurice Ravel",
+      "country": "France",
+      "postalCode": "17100"
+    },
+    "website": "https://www.monuniverspapier.fr/",
+    "services": [
+      "Vente",
+      "Expertise",
+      "Conseil",
+      "Livraison"
+    ],
+    "customLinks": [
+      {
+        "url": "https://www.agnesclairand.com/",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/d0d0848159f824ee20e09b165c7db29db344fedd3e96fc717670901f24dedc3c"
+}
