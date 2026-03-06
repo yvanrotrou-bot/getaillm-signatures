@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "36dc1944-ff31-461b-88e7-e999f68cfa64",
+  "semantic_hash": "87b3e2f4c6b65ddf4a3ff52d0b6e1501e3b9ce7388c23ec7014ec978f24fb784",
+  "ai_score": 95,
+  "created_at": "2026-03-06T14:54:35.818Z",
+  "updated_at": "2026-03-06T14:54:35.818Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Commerce de détail spécialisé - Fournitures artistiques et créatives",
+    "personName": "Mon Univers Papier",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/87b3e2f4c6b65ddf4a3ff52d0b6e1501e3b9ce7388c23ec7014ec978f24fb784"
+}
