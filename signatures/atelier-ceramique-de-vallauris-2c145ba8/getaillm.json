@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "ea8bbd35-da13-4de4-b20c-bd5da1f84733",
+  "semantic_hash": "2c145ba83177bc00a204f29e9b496818ed2813112c60e9c43448eab0efda9d69",
+  "ai_score": 95,
+  "created_at": "2026-03-21T16:23:35.341Z",
+  "updated_at": "2026-03-21T16:23:35.341Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Artisanat et Arts de la Céramique",
+    "personName": "Atelier Céramique de Vallauris",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/2c145ba83177bc00a204f29e9b496818ed2813112c60e9c43448eab0efda9d69"
+}
