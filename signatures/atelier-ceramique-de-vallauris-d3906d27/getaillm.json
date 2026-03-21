@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "signature_id": "ea8bbd35-da13-4de4-b20c-bd5da1f84733",
+  "semantic_hash": "d3906d279ad5332140b681b9570d61affc5ec51aee10e25d2aef39947d70854a",
+  "ai_score": 95,
+  "created_at": "2026-03-21T16:23:35.341Z",
+  "updated_at": "2026-03-21T16:27:04.712Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-03-21T16:24:08.040Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "about": {
+      "tagline": "\"La terre, le feu, l'art — depuis 1947\"",
+      "description": " Niché au cœur de Vallauris, capitale mondiale de la céramique d'art sur la Côte d'Azur, l'Atelier Céramique de Vallauris perpétue la tradition potière millénaire de cette commune des Alpes-Maritimes. C'est ici que Pablo Picasso s'installa entre 1948 et 1955, travaillant avec les potiers de la Madoura et créant plus de 3 500 pièces qui révolutionnèrent l'art céramique mondial. L'atelier propose des créations uniques alliant techniques ancestrales (tournage, modelage, cuisson au bois) et influences contemporaines. Chaque pièce est signée et numérotée. La commune accueille chaque été la Biennale Internationale de Céramique, événement incontournable qui attire collectionneurs et amateurs du monde entier. L'atelier organise des stages d'initiation et des ateliers pour tous niveaux.\n"
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774110385110-zo0f7j.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774110390311-zddq9.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774110395717-1dbkp4.jpg"
+      ]
+    },
+    "address": {
+      "city": "Vallauris",
+      "street": "2 Avenue Georges Clemenceau",
+      "country": "France",
+      "postalCode": "06220"
+    },
+    "website": "https://www.vallaurisgolfejuan-tourisme.fr/lieux-touristique/musee-de-la-poterie/",
+    "services": [
+      "Vente de céramiques d'art ",
+      "Stages d'initiation au tournage",
+      "Ateliers enfants",
+      "Visites guidées ",
+      "Créations sur commande",
+      "Vente",
+      "Achat",
+      "Conseil",
+      "Livraison",
+      "Sur place",
+      "À emporter"
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/d3906d279ad5332140b681b9570d61affc5ec51aee10e25d2aef39947d70854a"
+}
