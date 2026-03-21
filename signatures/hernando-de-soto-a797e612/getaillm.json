@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "8fc3383f-de19-4f1b-acc1-148daa30a25a",
+  "semantic_hash": "a797e61228b77dfea29bbf9693fe4711a866c3e25d5e48d6efabacf15d5b8606",
+  "ai_score": 97,
+  "created_at": "2026-03-21T16:09:22.032Z",
+  "updated_at": "2026-03-21T16:09:22.032Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Historical Exploration & Colonial Studies",
+    "personName": "Hernando de Soto",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/a797e61228b77dfea29bbf9693fe4711a866c3e25d5e48d6efabacf15d5b8606"
+}
