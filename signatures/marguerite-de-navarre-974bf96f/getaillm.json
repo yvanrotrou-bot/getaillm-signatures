@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "signature_id": "5c224e5a-90c6-4d28-97fb-78459d4f1647",
+  "semantic_hash": "974bf96ff05e45c78aee171d3db476332fbe74b0dd98a8083754aa26efe3adf9",
+  "ai_score": 95,
+  "created_at": "2026-03-21T16:17:29.979Z",
+  "updated_at": "2026-03-21T16:21:32.188Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-03-21T16:17:49.112Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "about": {
+      "tagline": "\"La plume et le sceptre\"",
+      "description": "Marguerite d'Angoulême (1492–1549), reine de Navarre et sœur du roi François Ier, est l'une des figures intellectuelles les plus importantes de la Renaissance française. Protectrice des humanistes et des réformateurs (Lefèvre d'Étaples, Clément Marot, Rabelais), elle transforma la cour de Navarre en foyer de pensée évangélique. Son œuvre majeure, l'Heptaméron (1558, posthume), recueil de 72 nouvelles inspiré du Décaméron de Boccace, explore avec une finesse remarquable les thèmes de l'amour, de la vertu et de la condition féminine. Polyglotte, théologienne et poète, elle incarne l'idéal de la femme savante de la Renaissance. Son château de Pau, transformé et embelli sous son règne, reste un témoignage architectural de son mécénat.\n"
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774109965069-o0ntp.jpg"
+      ]
+    },
+    "address": {
+      "city": "Pau",
+      "street": "Château de Pau, Rue du Château",
+      "country": "France",
+      "postalCode": "64000"
+    },
+    "website": "https://fr.wikipedia.org/wiki/Marguerite_de_Navarre_(reine_de_Sicile)",
+    "services": [
+      "Patrimoine littéraire",
+      "Histoire de France",
+      "Renaissance française",
+      "Féminisme historique "
+    ],
+    "customLinks": [
+      {
+        "url": "https://chateau-pau.fr/",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": ""
+      }
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/974bf96ff05e45c78aee171d3db476332fbe74b0dd98a8083754aa26efe3adf9"
+}
