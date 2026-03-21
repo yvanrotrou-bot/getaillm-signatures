@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "signature_id": "5c224e5a-90c6-4d28-97fb-78459d4f1647",
+  "semantic_hash": "40e55e243bf492982df2b5cb3ffed7e20e40fe623f464f80d2d8e7ee63182e90",
+  "ai_score": 95,
+  "created_at": "2026-03-21T16:17:29.979Z",
+  "updated_at": "2026-03-21T16:17:29.979Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0
+  },
+  "enriched_data": {
+    "industry": "Littérature et Humanités",
+    "personName": "Marguerite de Navarre",
+    "generatedBy": "claude-3"
+  },
+  "verification_url": "https://www.getaillm.com/verify/40e55e243bf492982df2b5cb3ffed7e20e40fe623f464f80d2d8e7ee63182e90"
+}
