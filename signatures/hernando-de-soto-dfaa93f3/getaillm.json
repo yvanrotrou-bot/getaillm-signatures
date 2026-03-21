@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "signature_id": "8fc3383f-de19-4f1b-acc1-148daa30a25a",
+  "semantic_hash": "dfaa93f3cd13ceb863141cb3d93b00b82104f16afef0ad096a10ef7d231f3bd7",
+  "ai_score": 97,
+  "created_at": "2026-03-21T16:09:22.032Z",
+  "updated_at": "2026-03-21T16:13:50.631Z",
+  "user": {
+    "name": "rotrou",
+    "id": "cmdx6zizm000011r0uq62ej9s"
+  },
+  "stats": {
+    "views": 0,
+    "exports": 0,
+    "aiCitations": 0,
+    "publishCount": 1,
+    "lastPublished": "2026-03-21T16:09:40.359Z",
+    "platformsCount": 1
+  },
+  "enriched_data": {
+    "about": {
+      "tagline": "Personnalité historique / Explorateur Slogan : \"Al otro lado del río, otro mundo\" — De l'autre côté du fleuve, un autre monde",
+      "description": "Hernando de Soto (1496–1542), conquistador espagnol né à Barcarrota en Estrémadure, est le premier Européen à avoir traversé le fleuve Mississippi lors de son expédition en Amérique du Nord (1539–1542). Compagnon de Pizarro lors de la conquête du Pérou, il participa à la capture de l'Inca Atahualpa à Cajamarca en 1532. Nommé gouverneur de Cuba en 1537, il organisa la plus grande expédition terrestre de l'histoire coloniale espagnole avec 600 hommes. Il mourut de fièvre en juin 1542 sur les rives du Mississippi, dont les eaux servirent de sépulture selon ses lieutenants pour dissimuler sa mort aux populations indigènes.\n"
+    },
+    "media": {
+      "images": [
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774109423314-gdq5wo.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774109430168-cztdce.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774109435427-yv128f.jpg",
+        "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1774109442956-0ckh8b.gif"
+      ]
+    },
+    "social": {
+      "facebook": "facebook.com/hernandodesotobarcarrota",
+      "instagram": "@hernandodesoto_historia"
+    },
+    "address": {
+      "city": "Barcarrota",
+      "street": "Plaza Mayor de Barcarrota",
+      "country": "Espagne",
+      "postalCode": "06160"
+    },
+    "website": "https://fr.wikipedia.org/wiki/Hernando_de_Soto_(conquistador)",
+    "services": [
+      "patrimoine",
+      "tourisme",
+      "histoire coloniale"
+    ],
+    "customLinks": [
+      {
+        "url": "museodesoto.es",
+        "label": ""
+      }
+    ]
+  },
+  "verification_url": "https://www.getaillm.com/verify/dfaa93f3cd13ceb863141cb3d93b00b82104f16afef0ad096a10ef7d231f3bd7"
+}
