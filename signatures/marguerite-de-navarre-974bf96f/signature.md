@@ -15,7 +15,7 @@ Marguerite de Navarre est une figure majeure de la Renaissance française et de 
 - **ID**: 5c224e5a-90c6-4d28-97fb-78459d4f1647
 - **Hash sémantique**: 974bf96ff05e45c78aee171d3db476332fbe74b0dd98a8083754aa26efe3adf9
 - **Créé le**: 21/03/2026
-- **Mis à jour le**: 21/03/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
