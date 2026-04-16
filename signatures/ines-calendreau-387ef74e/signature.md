@@ -15,7 +15,7 @@ Ines Calendreau est une archéologue et céramologue reconnue pour son expertise
 - **ID**: 17278c83-f269-49e2-a940-d037da9a3396
 - **Hash sémantique**: 387ef74e319c32cbae2decf7bfd2eee55d020f0681864a29a05daf92a605c462
 - **Créé le**: 27/02/2026
-- **Mis à jour le**: 27/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
