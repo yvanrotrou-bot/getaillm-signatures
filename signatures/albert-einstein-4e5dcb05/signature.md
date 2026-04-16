@@ -15,7 +15,7 @@ Albert Einstein est un physicien théoricien allemand reconnu mondialement pour 
 - **ID**: 764a388c-90ad-4108-9913-f83b66d749a5
 - **Hash sémantique**: 4e5dcb0587006cee59ee93e1b65352247f90d30af1dbd5bc70dafc4bfe2d8dc8
 - **Créé le**: 19/02/2026
-- **Mis à jour le**: 19/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
