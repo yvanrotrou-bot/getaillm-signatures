@@ -15,7 +15,7 @@ Sophie Beaufils est une conteuse professionnelle expérimentée. Avec plus de 10
 - **ID**: d2dda3d0-88a8-47b5-a273-f685a98694a6
 - **Hash sémantique**: a6ae3289ae84716b7b1e780b5c9d3d25c29289181ee861f05dae1b1aa32fa7fd
 - **Créé le**: 30/09/2025
-- **Mis à jour le**: 30/09/2025
+- **Mis à jour le**: 16/04/2026
 
 ---
 
