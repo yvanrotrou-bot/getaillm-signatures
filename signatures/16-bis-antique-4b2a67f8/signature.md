@@ -15,7 +15,7 @@
 - **ID**: e79da5cc-7d0c-4d4d-8687-b029b956af2b
 - **Hash sémantique**: 4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2
 - **Créé le**: 03/09/2025
-- **Mis à jour le**: 06/03/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
