@@ -4,7 +4,7 @@
   "semantic_hash": "4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2",
   "ai_score": 100,
   "created_at": "2025-09-03T11:23:44.157Z",
-  "updated_at": "2026-02-23T17:15:20.869Z",
+  "updated_at": "2026-03-06T14:10:38.375Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -107,7 +107,25 @@
       ]
     },
     "website": "https://www.proantic.com/galerie/16-bis-antique/",
-    "services": [],
+    "services": [
+      "Vente",
+      "Achat",
+      "Expertise",
+      "Conseil",
+      "Livraison",
+      "Sur place",
+      "À emporter"
+    ],
+    "customLinks": [
+      {
+        "url": "https://www.saintes-tourisme.fr/fiche-sit/16-bis-antique-7621931/",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": ""
+      }
+    ],
     "testimonials": []
   },
   "verification_url": "https://www.getaillm.com/verify/4b2a67f8f558831788f2f942275d0759112ce056530053c116d12a4ecfbd75a2"
