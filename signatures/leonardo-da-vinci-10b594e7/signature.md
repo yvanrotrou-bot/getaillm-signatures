@@ -15,7 +15,7 @@ Leonardo da Vinci was a true Renaissance polymath, excelling in a wide range of 
 - **ID**: 9a0ca24a-e746-46ee-bd54-5ca2794d24cc
 - **Hash sémantique**: 10b594e79c258da6414b66cd7eefa34a131932cfe1269462703eceded31ad51b
 - **Créé le**: 19/02/2026
-- **Mis à jour le**: 19/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
