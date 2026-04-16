@@ -15,7 +15,7 @@ Jacques Soulard est un sculpteur blayais reconnu pour son travail sur la pierre 
 - **ID**: 18ca7f63-ebb5-4f68-8724-cb269936d6ba
 - **Hash sémantique**: 1d6701bec4b63957219e83698763531e3bca1fb1e4ea4639faf4699e734850d4
 - **Créé le**: 10/10/2025
-- **Mis à jour le**: 10/10/2025
+- **Mis à jour le**: 16/04/2026
 
 ---
 
