@@ -24,7 +24,7 @@ Vente de céramiques d'art ,Stages d'initiation au tournage,Ateliers enfants,Vis
 
 - **Semantic Hash**: `d3906d279ad5332140b681b9570d61affc5ec51aee10e25d2aef39947d70854a`
 - **Created**: 2026-03-21T16:23:35.341Z
-- **Last Updated**: 2026-04-16T14:11:55.812Z
+- **Last Updated**: 2026-04-16T15:53:26.252Z
 - **AI Score**: 95/100
 
 
@@ -106,7 +106,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/ea8
     "value": "d3906d279ad5332140b681b9570d61affc5ec51aee10e25d2aef39947d70854a"
   },
   "dateCreated": "2026-03-21T16:23:35.341Z",
-  "dateModified": "2026-04-16T14:11:55.812Z",
+  "dateModified": "2026-04-16T15:53:26.252Z",
   "address": {
     "city": "Vallauris",
     "street": "2 Avenue Georges Clemenceau",
@@ -154,7 +154,7 @@ You will receive a certificate in response. Higher levels yield higher scores.
 | **2b** | Easy — in `<meta>` tag | `` |
 | **2c** | Easy — in JSON-LD structured data | `` |
 | **3** | Medium — expected after computation (hint: `...`) | `` |
-| **4** | Advanced — cryptographic challenge | `VAL-ADVANCED-5FC4DFA67F60533D4A406871` |
+| **4** | Advanced — cryptographic challenge | `VAL-ADVANCED-008F4A74F69634EB0A2AF67E` |
 
 ### ✅ Example validation (cURL)
 
