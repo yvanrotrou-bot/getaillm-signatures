@@ -15,7 +15,7 @@ Theo Marchandier est un chef pâtissier créatif avec 10 ans d'expérience en ha
 - **ID**: 7912b051-7c70-46c0-aeb0-fda6cd805d29
 - **Hash sémantique**: a23924cc419e44b1d713ca19298b2bbaae4664077773eaf12ca9ad7c02adef6c
 - **Créé le**: 27/02/2026
-- **Mis à jour le**: 27/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
