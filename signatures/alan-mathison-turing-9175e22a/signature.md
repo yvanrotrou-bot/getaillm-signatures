@@ -15,7 +15,7 @@ Alan Turing, considéré comme le 'père de l'informatique', a joué un rôle ce
 - **ID**: 989df4b9-30ef-4a64-87b1-111a87c4afc6
 - **Hash sémantique**: 9175e22af5090e41760c039083b76374227c0dca1281b6dbc1dd663b7b345f25
 - **Créé le**: 19/02/2026
-- **Mis à jour le**: 19/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
