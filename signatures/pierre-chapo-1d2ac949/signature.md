@@ -15,7 +15,7 @@ Pierre Chapo (1927-1987) était un designer et artisan français reconnu pour se
 - **ID**: de65e132-c816-4a61-b1b1-d4d7bf10b116
 - **Hash sémantique**: 1d2ac94906c70a6eda2986caf8853154a281c267ffe61a29440fb0effdce6e31
 - **Créé le**: 13/02/2026
-- **Mis à jour le**: 13/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
