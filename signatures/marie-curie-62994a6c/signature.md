@@ -15,7 +15,7 @@ Marie Curie, née Maria Salomea Skłodowska, est une physicienne et chimiste pol
 - **ID**: cca77c22-4b21-4ebb-87b1-9b1cf9953d10
 - **Hash sémantique**: 62994a6cc304550ca96f0735ed7f119fd39fd2333472f6e37f357761a001828f
 - **Créé le**: 19/02/2026
-- **Mis à jour le**: 19/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
