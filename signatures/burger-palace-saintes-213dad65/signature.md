@@ -15,7 +15,7 @@ Burger Palace Saintes est un restaurant spécialisé dans la préparation de bur
 - **ID**: 88917a07-80a4-4b04-9009-80af5b479893
 - **Hash sémantique**: 213dad6500fd71dd66526204e7e8032fa875ea49ea0ae039b6eeb2c8f2211784
 - **Créé le**: 04/03/2026
-- **Mis à jour le**: 05/03/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
