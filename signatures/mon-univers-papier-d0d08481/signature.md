@@ -15,7 +15,7 @@ Mon Univers Papier est une entreprise spécialisée dans la vente et la transfor
 - **ID**: 36dc1944-ff31-461b-88e7-e999f68cfa64
 - **Hash sémantique**: d0d0848159f824ee20e09b165c7db29db344fedd3e96fc717670901f24dedc3c
 - **Créé le**: 06/03/2026
-- **Mis à jour le**: 06/03/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
