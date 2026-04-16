@@ -15,7 +15,7 @@ Myriam Renard est une conseillère immobilière expérimentée, spécialisée su
 - **ID**: 395372ad-24bb-4d0f-9ace-aa677da4b87e
 - **Hash sémantique**: 36fdca049e8434b463f978a86de0a042e97dd5b6dca058d2c00bf0f59f0c9341
 - **Créé le**: 26/02/2026
-- **Mis à jour le**: 26/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
