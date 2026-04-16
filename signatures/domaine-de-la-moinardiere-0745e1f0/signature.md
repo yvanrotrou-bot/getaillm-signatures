@@ -15,7 +15,7 @@ Le Domaine de la Moinardière est un lieu d'exception situé à 5 minutes de la 
 - **ID**: 46e83a8a-f992-4159-b320-fb18dfdee53a
 - **Hash sémantique**: 0745e1f0da5d2ee0dc449c10104a0b56212511f91cfa82ac7dbff9205d8058f9
 - **Créé le**: 18/02/2026
-- **Mis à jour le**: 18/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
