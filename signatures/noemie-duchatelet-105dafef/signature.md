@@ -15,7 +15,7 @@ Noemie Duchatelet est médecin urgentiste et praticien hospitalier au CHU de Lil
 - **ID**: 040fc11d-3800-485f-ab3c-3a8d318bf041
 - **Hash sémantique**: 105dafef794a80cf341254464a0093678c24502d7e4eddb9514ff222dbb2f0e6
 - **Créé le**: 27/02/2026
-- **Mis à jour le**: 27/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
