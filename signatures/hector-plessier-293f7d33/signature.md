@@ -15,7 +15,7 @@ Hector Plessier est un data scientist et chercheur en traitement automatique du 
 - **ID**: 95eb21dd-cacf-4c1f-b8f7-d11beed12f99
 - **Hash sémantique**: 293f7d336113e3b95453fe055fc42660f1a3143da216f46fe8ad8ffecf70f42b
 - **Créé le**: 27/02/2026
-- **Mis à jour le**: 27/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
