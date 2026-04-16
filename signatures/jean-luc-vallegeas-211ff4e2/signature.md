@@ -15,7 +15,7 @@ Jean-Luc Vallegeas est un artiste peintre passionné, dont l'art est profondéme
 - **ID**: eccbc849-50f7-44bd-833a-48739235a2fa
 - **Hash sémantique**: 211ff4e226c4fe3a3ca08a9a4e524c05b5afd1d6dfbe04b56bcfcde1fa5e4069
 - **Créé le**: 27/09/2025
-- **Mis à jour le**: 30/09/2025
+- **Mis à jour le**: 16/04/2026
 
 ---
 
