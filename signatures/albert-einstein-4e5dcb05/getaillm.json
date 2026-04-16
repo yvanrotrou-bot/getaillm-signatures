@@ -4,7 +4,7 @@
   "semantic_hash": "4e5dcb0587006cee59ee93e1b65352247f90d30af1dbd5bc70dafc4bfe2d8dc8",
   "ai_score": 90,
   "created_at": "2026-02-19T06:36:26.388Z",
-  "updated_at": "2026-02-19T06:53:32.336Z",
+  "updated_at": "2026-04-16T14:04:32.076Z",
   "user": {
     "name": "rotrou",
     "id": "cmdx6zizm000011r0uq62ej9s"
@@ -37,6 +37,9 @@
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771483685600-uqx99z.png",
         "https://py59gtryqyxbqqgt.public.blob.vercel-storage.com/signatures/1771483692481-vfq78u.jpg"
       ]
+    },
+    "social": {
+      "facebook": "https://www.wikigetaillm.com/albert-einstein"
     },
     "address": {
       "city": "Princeton",
