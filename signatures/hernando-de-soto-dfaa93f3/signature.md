@@ -15,7 +15,7 @@ Hernando de Soto (c. 1497-1542) was a prominent Spanish explorer and conquistado
 - **ID**: 8fc3383f-de19-4f1b-acc1-148daa30a25a
 - **Hash sémantique**: dfaa93f3cd13ceb863141cb3d93b00b82104f16afef0ad096a10ef7d231f3bd7
 - **Créé le**: 21/03/2026
-- **Mis à jour le**: 21/03/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
