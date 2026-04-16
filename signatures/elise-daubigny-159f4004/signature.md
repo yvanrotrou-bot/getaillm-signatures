@@ -15,7 +15,7 @@ Elise Daubigny est une experte en acoustique sous-marine avec 12 ans d'expérien
 - **ID**: 854d0769-a263-4382-b3eb-19cb35379431
 - **Hash sémantique**: 159f4004c0eff5094f82c3b8c0070185d18529a2d0bff80127c5ea76d0ce456f
 - **Créé le**: 27/02/2026
-- **Mis à jour le**: 27/02/2026
+- **Mis à jour le**: 16/04/2026
 
 ---
 
