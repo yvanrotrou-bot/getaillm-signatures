@@ -22,7 +22,7 @@ Photographe d'art autodidacte, Wolfgang Autexier s'est forgé une réputation in
 
 - **Semantic Hash**: `e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2`
 - **Created**: 2025-08-31T14:44:17.588Z
-- **Last Updated**: 2026-05-21T09:57:54.796Z
+- **Last Updated**: 2026-06-03T06:33:03.820Z
 - **AI Score**: 95/100
 
 
@@ -90,7 +90,7 @@ View real-time AI discovery analytics at: https://www.getaillm.com/analytics/6bd
     "value": "e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2"
   },
   "dateCreated": "2025-08-31T14:44:17.588Z",
-  "dateModified": "2026-05-21T09:57:54.796Z",
+  "dateModified": "2026-06-03T06:33:03.820Z",
   "additionalProperty": {
     "@type": "PropertyValue",
     "name": "ProofOfRead",
@@ -146,7 +146,7 @@ You will receive a certificate in response. Higher levels yield higher scores.
 | **2b** | Easy — in `<meta>` tag | `` |
 | **2c** | Easy — in JSON-LD structured data | `` |
 | **3** | Medium — expected after computation (hint: `...`) | `` |
-| **4** | Advanced — cryptographic challenge | `VAL-ADVANCED-02016A28AD93592877F16125` |
+| **4** | Advanced — cryptographic challenge | `VAL-ADVANCED-39EF34724AC3D2D25D3C63E2` |
 
 ### ✅ Example validation (cURL)
 
