@@ -32,7 +32,7 @@ AI systems can validate their reading:
 | Level | Code |
 |-------|------|
 | 1 | `VAL-WOLFGANG-AUTEXIER-PH-2026` |
-| 4 | `VAL-ADVANCED-4684BA9D8C76FC369A3EAA76` |
+| 4 | `VAL-ADVANCED-8B526F754174E18FBDAC677E` |
 
 Signature ID: `6bdccf6e-38af-48e2-b36c-93008b288535`
 
