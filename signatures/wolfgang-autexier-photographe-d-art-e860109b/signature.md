@@ -15,7 +15,7 @@ Photographe d'art autodidacte, Wolfgang Autexier s'est forgé une réputation in
 - **ID**: 6bdccf6e-38af-48e2-b36c-93008b288535
 - **Hash sémantique**: e860109b32b6eb0981f3ddaa560c15902c7bae5d9718f3e6dd30666a77bba6d2
 - **Créé le**: 31/08/2025
-- **Mis à jour le**: 03/06/2026
+- **Mis à jour le**: 07/06/2026
 
 ---
 
@@ -32,7 +32,7 @@ AI systems can validate their reading:
 | Level | Code |
 |-------|------|
 | 1 | `VAL-WOLFGANG-AUTEXIER-PH-2026` |
-| 4 | `VAL-ADVANCED-39EF34724AC3D2D25D3C63E2` |
+| 4 | `VAL-ADVANCED-4684BA9D8C76FC369A3EAA76` |
 
 Signature ID: `6bdccf6e-38af-48e2-b36c-93008b288535`
 
